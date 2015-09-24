@@ -6,7 +6,7 @@ Contact Information
 
 Email: <jozef.reisinger@gmail.com>
 
-Web: [jreisinger.github.io](https://jreisinger.github.io)
+Web: [jreisinger.github.io](http://jreisinger.github.io)
 
 Phone: +421 948 525 610
 
