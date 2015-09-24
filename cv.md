@@ -30,11 +30,9 @@ at Institute of Science and Technology Austria [Vienna, 2013 - present]
 * Taking care of Linux based infrastructure (email system, web servers, file
   servers, DNS) and networking.
 * Building tools and automating tasks by using Perl, Bash and Ansible.
-* Writing monitoring programs in areas like backups, security, virtualization
-  (KVM).
 * Migrating monitoring system from Nagios to clustered Icinga2 setup.
-* Wrote backup software in Perl which stores backups metadata in MySQL and
-  presents them via Dancer based web interface.
+* Wrote backup and VMs monitoring software in Perl using MySQL and Dancer based
+  web interface.
 
 IT Auditor/System Administrator
 at Slovak Telekom [Bratislava, 2011 - 2013, 2004 - 2006]
