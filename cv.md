@@ -14,7 +14,7 @@ Professional Summary
 --------------------
 
 I have 5+ year experience in systems administration. I have administered
-infrastructures of varied sizes (10 to 200 servers/devices) and types (testing
+infrastructures of varied sizes (10 to 500+ servers/devices) and types (testing
 environments for auditors and developers, standard IT infrastructure of a
 medium sized company, core infrastructure for a scientific institute). I have
 written many small to medium sized scripts and couple of larger programs. My
@@ -24,8 +24,14 @@ the "right tool for the job" philosophy.
 Work Experience
 ---------------
 
+Sr. Linux Systems Specialist [Bratislava, 2015 - present]
+at Eset
+
+* Taking care of Linux servers
+* Implementing a configuration management tool
+
 System and Network Administrator
-at Institute of Science and Technology Austria [Vienna, 2013 - present]
+at Institute of Science and Technology Austria [Vienna, 2013 - 2015]
 
 * Taking care of Linux based infrastructure (email system, web servers, file
   servers, DNS) and networking.
@@ -86,7 +92,7 @@ Buzzwords :-)
 * Programming: Perl, Bash
 * Networking: iptables, Linux networking, Cisco switches
 * Network daemons: Apache, Bind, vsftp, OpenLDAP, OpenVPN
-* Virtualization: KVM, Xen, Vagrant
+* Virtualization: KVM, Xen, Vagrant, VMware
 * Monitoring: Nagios, Icinga, Zabbix
 * Tools: Ansible, Git, Bacula, MediaWiki, Confluence, MoinMoin
 * Databases: MySQL, Oracle
