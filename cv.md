@@ -24,8 +24,8 @@ the "right tool for the job" philosophy.
 Work Experience
 ---------------
 
-Sr. Linux Systems Specialist [Bratislava, 2015 - present]
-at Eset
+Sr. Linux Systems Specialist
+at Eset [Bratislava, 2015 - present]
 
 * Taking care of Linux servers
 * Implementing a configuration management tool
