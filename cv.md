@@ -37,7 +37,7 @@ at Institute of Science and Technology Austria [Vienna, 2013 - 2015]
 
 * Taking care of Linux based infrastructure (email system, web servers, file
   servers, DNS) and networking.
-* Building tools and automating tasks by using Perl, Bash and Ansible.
+* Building tools and automating tasks via Perl, Bash and Ansible.
 * Migrating monitoring system from Nagios to clustered Icinga2 setup.
 * Wrote backup and VMs monitoring software in Perl using MySQL and Dancer based
   web interface.
@@ -92,6 +92,7 @@ Buzzwords :-)
 * Linux: Debian, RHEL, CentOS
 * UNIX: Solaris, OpenBSD
 * Programming: Perl, Bash
+* Natural languages: English, Slovak, Italian
 * Networking: iptables, Linux networking, Cisco switches
 * Network daemons: Apache, Bind, vsftp, OpenLDAP, OpenVPN
 * Virtualization: KVM, Xen, Vagrant, VMware
