@@ -21,7 +21,7 @@ written many small to medium sized scripts and couple of larger programs. My
 preferred technologies are Linux (Debian) and Perl, although I try to practice
 the "right tool for the job" philosophy. I also have some skills in the areas
 of IT auditing, IT security and simple projects management. I am not bad at
-communicating with technical and not technical folks.
+communicating with technical and non-technical folks.
 
 Work Experience
 ---------------
