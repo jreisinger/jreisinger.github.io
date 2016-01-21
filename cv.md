@@ -4,9 +4,9 @@ Curriculum Vitae
 Contact Information
 -------------------
 
-Email: <jozef.reisinger@gmail.com>
-
 Web: [jreisinger.github.io](http://jreisinger.github.io)
+
+Email: <jozef.reisinger@gmail.com>
 
 Phone: +421 948 525 610
 
