@@ -69,14 +69,14 @@ at Hewlett-Packard [Bratislava, 2004 - 2004]
 Certificates
 ------------
 
-Linux Professional Institute Certification - Advanced Level Administration 
-(LPIC-2) [2012 - 2017]
+Linux Professional Institute Certification - Advanced Level Administration,
+LPIC-2 [2012 - 2017]
 
-Cisco Certified Entry Networking Technician (CCENT) [2013 - 2016]
+Cisco Certified Entry Networking Technician, CCENT [2013 - 2016]
 
-Certified Information Systems Security Professional (CISSP) [2011 - 2014]
+Certified Information Systems Security Professional, CISSP [2011 - 2014]
 
-Cisco Certified Network Associate (CCNA) [2006 - 2009]
+Cisco Certified Network Associate, CCNA [2006 - 2009]
 
 Formal Education
 ----------------
