@@ -86,6 +86,8 @@ and telecommunications [2005 - 2006]
 
 University of Economics [1998 - 2004]
 
+Bilingual high-school, Slovak - Italian [1993 - 1998]
+
 Buzzwords :-)
 -------------
 
