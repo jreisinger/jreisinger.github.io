@@ -13,15 +13,16 @@ Phone: +421 948 525 610
 Professional Summary
 --------------------
 
-I have 5+ year experience in systems administration. I have administered
-infrastructures of varied sizes (10 to 500+ servers/devices) and types (testing
-environments for auditors and developers, standard IT infrastructure of a
-medium sized company, core infrastructure for a scientific institute). I have
+I have been doing IT related stuff for companies of varied sizes in
+telecommunication, utilities, IT and research industries. I have experience
+mainly in system administration (5+ years) and IT auditing and security (5+
+years). I have administered various kinds of infrastructures (testing
+environments for auditors and developers, standard IT infrastructure of medium
+sized companies, core infrastructure for a scientific institute). I have
 written many small to medium sized scripts and couple of larger programs. My
 preferred technologies are Linux (Debian) and Perl, although I try to practice
-the "right tool for the job" philosophy. I also have some skills in the areas
-of IT auditing, IT security and simple projects management. I am not bad at
-communicating with technical and non-technical folks.
+the "right tool for the job" philosophy. I am not bad at managing simpler
+projects and communicating with technical and non-technical folks.
 
 Work Experience
 ---------------
