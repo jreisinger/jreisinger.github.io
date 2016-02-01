@@ -19,7 +19,7 @@ mainly in system administration (5+ years) and IT auditing and security (5+
 years). I have written many small to medium sized scripts and couple of larger
 programs. My preferred technologies are Linux (Debian) and Perl, although I try
 to practice the "right tool for the job" philosophy. I am not bad at managing
-simpler projects and communicating with technical and non-technical folks.
+smaller projects and communicating with technical and non-technical folks.
 
 Work Experience
 ---------------
@@ -27,8 +27,8 @@ Work Experience
 Sr. Linux Systems Specialist
 at Eset [Bratislava, 2015 - present]
 
-* Taking care of Linux servers
-* Implementing a configuration management tool
+* Administering Linux servers and related technologies.
+* Implementing a configuration management tool.
 
 System and Network Administrator
 at Institute of Science and Technology Austria [Vienna, 2013 - 2015]
@@ -48,7 +48,7 @@ at Slovak Telekom [Bratislava, 2011 - 2013, 2004 - 2006]
   management and vulnerability assessment).
 * Administration of internal lab consisting mainly of Linux servers and Cisco
   networking devices.
-* Managing small audit teams (up to 4 people).
+* Managing small (up to 4 people) audit teams.
 
 System Administrator/DevOps
 at Kedros [Bratislava, 2008 - 2011]
