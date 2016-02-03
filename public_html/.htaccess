@@ -1,0 +1,3 @@
+# These are links I posted somewhere on the Internet and I'd like them not to die
+#RewriteEngine On
+#RewriteRule links/PerlOneLiners$ http://prnet.duckdns.org/PerlOneLiners [R]
