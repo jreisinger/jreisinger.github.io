@@ -41,7 +41,7 @@ at Institute of Science and Technology Austria [Vienna, 2013 - 2015]
 * Wrote backup and VMs monitoring software in Perl using MySQL and Dancer based
   web interface.
 
-IT Auditor/System Administrator
+IT Auditor (System Administrator)
 at Slovak Telekom [Bratislava, 2011 - 2013, 2004 - 2006]
 
 * Performing audits in IT, networking and IT security areas (Internet facing
@@ -51,7 +51,7 @@ at Slovak Telekom [Bratislava, 2011 - 2013, 2004 - 2006]
   networking devices.
 * Managing small (up to 4 people) audit teams.
 
-System Administrator/DevOps
+System Administrator (DevOps)
 at Kedros [Bratislava, 2008 - 2011]
 
 * Administration of Linux (Debian) based infrastructure.
@@ -59,6 +59,10 @@ at Kedros [Bratislava, 2008 - 2011]
   in collaboration with developers and testers.
 * Writing automation scripts in Unix shell and Perl.
 * Project delivery management.
+
+Auditor
+at Slovenske elektrarne, an Enel Group company [Bratislava, 2006 - 2008]
+* Performing audits and risk analysis in IT and financial areas (SOX).
 
 Unix Support Specialist
 at Hewlett-Packard [Bratislava, 2004 - 2004]
