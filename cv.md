@@ -1,6 +1,3 @@
-Curriculum Vitae
-================
-
 Contact Information
 -------------------
 
