@@ -62,6 +62,7 @@ at Kedros [Bratislava, 2008 - 2011]
 
 Auditor
 at Slovenske elektrarne, an Enel Group company [Bratislava, 2006 - 2008]
+
 * Performing audits and risk analysis in IT and financial areas (SOX).
 
 Unix Support Specialist
