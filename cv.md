@@ -58,7 +58,7 @@ at Kedros [Bratislava, 2008 - 2011]
 * Project delivery management.
 
 Auditor
-at Slovenske elektrarne, an Enel Group company [Bratislava, 2006 - 2008]
+at Slovenske Elektrarne, an Enel Group Company [Bratislava, 2006 - 2008]
 
 * Performing audits and risk analysis in IT and financial areas (SOX).
 
@@ -70,14 +70,14 @@ at Hewlett-Packard [Bratislava, 2004 - 2004]
 Certificates
 ------------
 
-Linux Professional Institute Certification - Advanced Level Administration,
-LPIC-2 [2012 - 2017]
+LPIC-2: Linux Professional Institute Certification - Advanced Level
+Administration [2012 - 2017]
 
-Cisco Certified Entry Networking Technician, CCENT [2013 - 2016]
+CCENT: Cisco Certified Entry Networking Technician [2013 - 2016]
 
-Certified Information Systems Security Professional, CISSP [2011 - 2014]
+CISSP: Certified Information Systems Security Professional [2011 - 2014]
 
-Cisco Certified Network Associate, CCNA [2006 - 2009]
+CCNA: Cisco Certified Network Associate [2006 - 2009]
 
 Formal Education
 ----------------
