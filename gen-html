@@ -1,5 +1,5 @@
 #!/bin/bash
 
 for f in cv index; do
-    pandoc -o ${f}.html ${f}.md
+    pandoc --output=${f}.html ${f}.md --standalone
 done
