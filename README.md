@@ -1,3 +1,3 @@
-`cv.html` is generated from `cv.md` like this
+To generate HTML files from Markdown ones:
 
-    pandoc -o cv.html cv.md
+    ./gen-html

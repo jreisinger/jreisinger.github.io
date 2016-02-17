@@ -1,0 +1,5 @@
+#!/bin/bash
+
+for f in cv index; do
+    pandoc -o ${f}.html ${f}.md
+done
