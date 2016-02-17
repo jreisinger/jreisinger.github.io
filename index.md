@@ -8,9 +8,6 @@ header-includes:
     <link rel="icon" type="image/png" href="./batman.png"/>
 ---
 
-About Me
---------
-
 I am interested, among other things, in how computer systems work and how to
 use and manage them effectively. To be a bit more specific, I dabble in system
 administration, security and programming. Some of my preferred IT tools are
