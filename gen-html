@@ -1,5 +1,4 @@
 #!/bin/bash
 
-for f in cv index; do
-    pandoc -s -t html ${f}.md -T "Jozef's Home Page" -o ${f}.html
-done
+pandoc -s -t html index.md -o index.html
+pandoc -s -t html cv.md -o cv.html

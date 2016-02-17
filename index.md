@@ -1,3 +1,13 @@
+---
+title: Jozef Reisinger's Home Page
+header-includes:
+    <meta name="keywords" content="Foo,Bar" />
+    <meta name="description" content="My description" />
+    <meta name="description" content="Personal web site about Perl programming, Linux operating system, system administration, computer networking, IT audit and security" />
+    <meta name="keywords" content="Perl,programming,language,Linux,sysadmin,admin,system,administrator,computer,networking,IT,security,audit" />
+    <link rel="icon" type="image/png" href="./batman.png"/>
+---
+
 About Me
 --------
 
