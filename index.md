@@ -18,8 +18,7 @@ More information about me can be found here:
 -   [Stackexchange](https://stackexchange.com/users/1010742/jreisinger?tab=activity)
     and [The Monastery](http://perlmonks.org/?node_id=6364;user=j0se)
     activities
--   [Tweets](https://twitter.com/JozefReisinger)
--   [Photos](https://www.flickr.com/photos/jozrei)
+-   [Tweets](https://twitter.com/JozefReisinger) and [photos](https://www.flickr.com/photos/jozrei)
 -   [Wish list](http://amzn.com/w/23WE353M6O53S) (buy me things if you
     want to make me happy :-))
 
