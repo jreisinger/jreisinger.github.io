@@ -112,4 +112,3 @@ Buzzwords :-)
 * Ticketing: RT, Jira
 * Editors: Vim, Atom
 
-[Markdown source](cv.md)
