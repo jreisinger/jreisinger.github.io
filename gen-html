@@ -1,5 +1,5 @@
 #!/bin/bash
 
 for f in cv index; do
-    pandoc --output=${f}.html ${f}.md --standalone
+    pandoc --standalone --to=html5 ${f}.md --output=${f}.html
 done
