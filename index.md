@@ -18,11 +18,10 @@ More information about me can be found here:
 -   [Stackexchange](https://stackexchange.com/users/1010742/jreisinger?tab=activity)
     and [The Monastery](http://perlmonks.org/?node_id=6364;user=j0se)
     activities
--   [Wish list](http://amzn.com/w/23WE353M6O53S) (buy me things if you
-    want to make me happy :-))
 -   [Tweets](https://twitter.com/JozefReisinger)
 -   [Photos](https://www.flickr.com/photos/jozrei)
--   [Calendar](https://www.google.com/calendar/embed?src=jozef.reisinger%40gmail.com&ctz=Europe/Prague)
+-   [Wish list](http://amzn.com/w/23WE353M6O53S) (buy me things if you
+    want to make me happy :-))
 
 [Quote](http://reisingers.duckdns.org/~jreisinger/quote.html) of the minute.
 
