@@ -1,3 +1,8 @@
+---
+title: Jozef Reisinger's CV
+header-includes:
+---
+
 Contact Information
 -------------------
 
