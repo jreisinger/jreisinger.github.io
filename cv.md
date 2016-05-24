@@ -31,6 +31,7 @@ at Eset [Bratislava, 2015 - present]
 
 * Administering Linux servers and related technologies.
 * Implementing a configuration management tool.
+* Learning Python.
 
 System and Network Administrator
 at Institute of Science and Technology Austria [Vienna, 2013 - 2015]
