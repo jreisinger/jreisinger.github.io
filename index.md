@@ -21,7 +21,7 @@ More information about me can be found here:
     notes and diary)
 -   Some of [my code](https://github.com/jreisinger)
 -   [Stackexchange](https://stackexchange.com/users/1010742/jreisinger?tab=activity)
-    and [The Monastery](http://perlmonks.org/?node_id=6364;user=j0se)
+    and [The Monastery](http://perlmonks.org/?node_id=6364;user=reisinge)
     activities
 -   [Tweets](https://twitter.com/JozefReisinger) and [photos](https://www.flickr.com/photos/jozrei)
 -   [Wish list](http://amzn.com/w/23WE353M6O53S) (buy me things if you
