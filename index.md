@@ -27,7 +27,7 @@ More information about me can be found here:
 -   [Wish list](http://amzn.com/w/23WE353M6O53S) (buy me things if you
     want to make me happy :-))
 
-[Quote](http://reisingers.duckdns.org/~jreisinger/quote.html) of the minute.
+My favorite [quotes](https://github.com/jreisinger/blog/blob/master/posts/quotes.txt).
 
 ![me@dc](rack_top.jpg "Hmmm, why oh why, isn't it working ... :-)")
 
