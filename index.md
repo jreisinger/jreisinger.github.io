@@ -21,12 +21,12 @@ More information about me can be found here:
     notes and diary)
 -   some of my [code](https://github.com/jreisinger)
 -   [StackExchange](https://stackexchange.com/users/1010742/jreisinger?tab=activity)
-    and The [Monastery](http://perlmonks.org/?node_id=6364;user=reisinge)
+    and the [Monastery](http://perlmonks.org/?node_id=6364;user=reisinge)
     activities
 -   [tweets](https://twitter.com/JozefReisinger) and [photos](https://www.flickr.com/photos/jozrei)
 -   wish [list](http://amzn.com/w/23WE353M6O53S) (buy me things if you
     want to make me happy :-))
--   favorite [quotes](https://github.com/jreisinger/blog/blob/master/posts/quotes.txt)
+-   favorite [quotes](https://raw.githubusercontent.com/jreisinger/blog/master/posts/quotes.txt)
 
 ![me@dc](rack_top.jpg "Hmmm, why oh why, isn't it working ... :-)")
 
