@@ -14,19 +14,19 @@ to practice the "[right tool for the
 job](http://catb.org/esr/writings/unix-koans/shell-tools.html)" philosophy.
 More information about me can be found here:
 
--   Formal [CV](cv.html),
+-   formal [CV](cv.html),
     [LinkedIn](http://sk.linkedin.com/in/jozefreisinger) account (might be
-    outdated) and [Perl résumé](http://perlresume.org/REISINGE)
--   [Blog](http://jreisinger.blogspot.com/) (technical documentation,
+    outdated) and Perl [résumé](http://perlresume.org/REISINGE)
+-   [blog](http://jreisinger.blogspot.com/) (technical documentation,
     notes and diary)
--   Some of [my code](https://github.com/jreisinger)
--   [Stackexchange](https://stackexchange.com/users/1010742/jreisinger?tab=activity)
-    and [The Monastery](http://perlmonks.org/?node_id=6364;user=reisinge)
+-   some of my [code](https://github.com/jreisinger)
+-   [StackExchange](https://stackexchange.com/users/1010742/jreisinger?tab=activity)
+    and The [Monastery](http://perlmonks.org/?node_id=6364;user=reisinge)
     activities
--   [Tweets](https://twitter.com/JozefReisinger) and [photos](https://www.flickr.com/photos/jozrei)
--   [Wish list](http://amzn.com/w/23WE353M6O53S) (buy me things if you
+-   [tweets](https://twitter.com/JozefReisinger) and [photos](https://www.flickr.com/photos/jozrei)
+-   wish [list](http://amzn.com/w/23WE353M6O53S) (buy me things if you
     want to make me happy :-))
--   Favorite [quotes](https://github.com/jreisinger/blog/blob/master/posts/quotes.txt)
+-   favorite [quotes](https://github.com/jreisinger/blog/blob/master/posts/quotes.txt)
 
 ![me@dc](rack_top.jpg "Hmmm, why oh why, isn't it working ... :-)")
 
