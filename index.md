@@ -19,7 +19,7 @@ More information about me can be found here:
     outdated) and Perl [résumé](http://perlresume.org/REISINGE)
 -   [blog](http://jreisinger.blogspot.com/) (technical documentation,
     notes and diary)
--   some of my [code](https://github.com/jreisinger)
+-   [some](https://metacpan.org/pod/App::Monport) [of](https://github.com/skx/sysadmin-util/blob/master/ssh-test) [my](https://github.com/jreisinger/ansible-role-awsserver) [code](https://github.com/jreisinger)
 -   [StackExchange](https://stackexchange.com/users/1010742/jreisinger?tab=activity)
     and the [Monastery](http://perlmonks.org/?node_id=6364;user=reisinge)
     activities
