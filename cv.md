@@ -38,7 +38,7 @@ at Institute of Science and Technology Austria [Vienna, 2013 - 2015]
 
 * Taking care of Linux based infrastructure (email system, web servers, file
   servers, DNS) and networking.
-* Building tools and automating tasks via Perl, Bash and Ansible (e.g. wrote backup and virtual machines monitoring software using MySQL and Perl Dancer)
+* Building tools and automating tasks via Perl, Bash and Ansible (e.g. wrote backup and virtual machines monitoring software using MySQL and Perl Dancer).
 * Migrating monitoring system from Nagios to clustered Icinga2 setup.
 
 IT Auditor (System Administrator)
