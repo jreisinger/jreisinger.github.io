@@ -42,7 +42,7 @@ at Institute of Science and Technology Austria [Vienna, 2013 - 2015]
 * Migrating monitoring system from Nagios to clustered Icinga2 setup.
 
 IT Auditor (System Administrator)
-at Slovak Telekom [Bratislava, 2011 - 2013, 2004 - 2006]
+at Slovak Telekom [Bratislava, 2011 - 2013]
 
 * Performing audits in IT, networking and IT security areas (Internet facing
   applications security, PKI review, Security of remote access, Patch 
@@ -64,6 +64,11 @@ Auditor
 at Slovenske Elektrarne, an Enel Group Company [Bratislava, 2006 - 2008]
 
 * Performing audits and risk analysis in IT and financial areas (SOX).
+
+IT Auditor (System Administrator)
+at Slovak Telekom [Bratislava, 2004 - 2006]
+
+* See above.
 
 Unix Support Specialist
 at Hewlett-Packard [Bratislava, 2004 - 2004]
