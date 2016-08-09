@@ -52,7 +52,7 @@ at Slovak Telekom [Bratislava, 2011 - 2013]
 * Managing small (up to 4 people) audit teams.
 
 System Administrator (DevOps)
-at Kedros [Bratislava, 2008 - 2011]
+at Kedros [Bratislava, 2009 - 2011]
 
 * Administration of Linux (Debian) based infrastructure.
 * Setup and maintenance of testing environments (Solaris, RHEL, Tomcat, Oracle)
