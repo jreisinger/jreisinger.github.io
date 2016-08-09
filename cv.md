@@ -60,6 +60,11 @@ at Kedros [Bratislava, 2009 - 2011]
 * Writing automation scripts in Unix shell and Perl.
 * Project delivery management.
 
+Linux Trainer,
+self employed [Bratislava, 2008 - 2009]
+
+* Teaching courses on GNU/Linux operating system.
+
 Auditor
 at Slovenske Elektrarne, an Enel Group Company [Bratislava, 2006 - 2008]
 
