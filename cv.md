@@ -15,13 +15,12 @@ Professional Summary
 --------------------
 
 I have been doing IT related stuff for companies of varied sizes in
-telecommunication, utilities, software development and research industries. My
-experience is mainly in system administration (5+ years) and IT auditing and
-security (5+ years). I have touched several infrastructures and written quite a
-few scripts/programs. My preferred technologies are Linux and Perl, although I
-try to practice the "right tool for the job" philosophy. I am not bad at
-managing smaller projects and communicating with technical and non-technical
-folks.
+telecommunication, software development and research industries. My experience
+is mainly in system administration (5+ years) and IT auditing and security (5+
+years). I have touched several infrastructures and written quite a few
+scripts/programs. My preferred technologies are Linux and Perl, although I try
+to practice the "right tool for the job" philosophy. I am not bad at managing
+smaller projects and communicating with technical and non-technical folks.
 
 Work Experience
 ---------------
