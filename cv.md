@@ -14,14 +14,14 @@ Phone: +421 948 525 610
 Professional Summary
 --------------------
 
-I have been doing IT related stuff for companies of varied sizes in
-telecommunication, software development, scientific research and financial
-services industries. My experience is mainly in system administration (5+
-years) and IT auditing and security (5+ years). I have touched several
-infrastructures and written quite a few scripts/programs. My preferred
-technologies are Linux and Perl, although I try to practice the "right tool for
-the job" philosophy. I am not bad at managing smaller projects/teams and
-communicating with technical and non-technical folks.
+I have been doing IT related stuff for companies of varied sizes and types. The
+industries I have covered are telecommunication, software development,
+scientific research and financial services. My experience is mainly in system
+administration (5+ years) and IT auditing and security (5+ years). I have
+touched several infrastructures and written quite a few scripts/programs. My
+preferred technologies are Linux and Perl, although I try to practice the
+"right tool for the job" philosophy. I am not bad at managing smaller projects
+and teams. I can communicate with technical and non-technical folks.
 
 Work Experience
 ---------------
