@@ -26,8 +26,13 @@ folks.
 Work Experience
 ---------------
 
+Security Engineer
+at First Data (Bratislava, 2016 - present)
+
+* Full-stack administration of a large log management solution based on Linux
+
 Sr. Linux Systems Specialist
-at Eset [Bratislava, 2015 - present]
+at Eset [Bratislava, 2015 - 2016]
 
 * Administering Linux servers and related technologies.
 * Implementing a configuration management tool.
@@ -92,7 +97,7 @@ Buzzwords :-)
 * Networking: iptables, Linux networking, Cisco switches
 * Network daemons: Apache, Bind, vsftp, OpenLDAP, OpenVPN
 * Virtualization: KVM, Xen, Vagrant, VMware
-* Monitoring: Nagios, Icinga, Zabbix
+* Monitoring: Nagios, Icinga, Zabbix, Splunk
 * Tools: Ansible, Git, Bacula, MediaWiki, Confluence, MoinMoin
 * Databases: MySQL, Oracle
 * HA: Pacemaker, DRBD
