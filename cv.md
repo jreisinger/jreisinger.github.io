@@ -29,7 +29,7 @@ Work Experience
 Security Engineer
 at First Data (Bratislava, 2016 - present)
 
-* Full-stack administration of a large log management solution based on Linux
+* Full-stack administration of a large log management solution based on Linux.
 
 Sr. Linux Systems Specialist
 at Eset [Bratislava, 2015 - 2016]
