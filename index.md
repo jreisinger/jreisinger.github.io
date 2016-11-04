@@ -9,9 +9,10 @@ header-includes:
 I am interested, among other things, in how computer systems work and how to
 use and manage them effectively. To be a bit more specific, I dabble in system
 administration, security and programming. Some of my preferred IT tools are
-[Debian](http://www.debian.org) and [Perl](http://www.perl.org), although I try
-to practice the "[right tool for the
+GNU/Linux and [Perl](http://www.perl.org), although I try to practice the
+"[right tool for the
 job](http://catb.org/esr/writings/unix-koans/shell-tools.html)" philosophy.
+
 More information about me can be found here:
 
 -   formal [CV](cv.html),

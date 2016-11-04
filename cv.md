@@ -2,9 +2,6 @@
 title: Jozef Reisinger's CV
 ---
 
-Contact Information
--------------------
-
 Web: [jreisinger.github.io](http://jreisinger.github.io)
 
 Email: <jozef.reisinger@gmail.com>
@@ -14,14 +11,7 @@ Phone: +421 948 525 610
 Professional Summary
 --------------------
 
-I have been doing IT related stuff for companies of varied sizes and types. The
-industries I have covered are telecommunication, software development,
-scientific research and financial services. My experience is mainly in system
-administration (5+ years) and IT auditing and security (5+ years). I have
-touched several infrastructures and written quite a few scripts/programs. My
-preferred technologies are Linux and Perl, although I try to practice the
-"right tool for the job" philosophy. I am not bad at managing smaller projects
-and teams. I can communicate with technical and non-technical folks.
+I have been doing IT related stuff for companies of varied sizes and types. My experience is mainly in system administration (5+ years) and IT auditing and security (5+ years). I have touched several infrastructures and written quite a few scripts/programs. My preferred technologies are Linux and Perl, although I try to practice the "right tool for the job" philosophy. I also try to stay on top of new technologies and methods, and use them when/where appropriate. I am not bad at managing smaller projects and teams. I can communicate well with technical and non-technical folks.
 
 Work Experience
 ---------------
@@ -87,8 +77,10 @@ University of Economics [1998 - 2004]
 
 Bilingual high-school, Slovak - Italian [1993 - 1998]
 
-Buzzwords :-)
--------------
+Technologies
+------------
+
+I have used these (and some others) technologies in production:
 
 * Linux: Debian, RHEL, CentOS
 * UNIX: Solaris, OpenBSD
