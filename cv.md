@@ -77,24 +77,25 @@ University of Economics [1998 - 2004]
 
 Bilingual high-school, Slovak - Italian [1993 - 1998]
 
-Technologies
-------------
+Skills
+------
 
-I have used these (and some others) technologies in production:
+I am familiar with and have used these technologies, tools and languages in
+production:
 
 * Linux: Debian, RHEL, CentOS
 * UNIX: Solaris, OpenBSD
 * Programming: Perl, Bash
 * Natural languages: English, Slovak, Italian
 * Networking: iptables, Linux networking, Cisco switches
-* Network daemons: Apache, Bind, vsftp, OpenLDAP, OpenVPN
-* Virtualization: KVM, Xen, Vagrant, VMware
-* Monitoring: Nagios, Icinga, Zabbix, Splunk
-* Tools: Ansible, Git, Bacula, MediaWiki, Confluence, MoinMoin
+* Network daemons: Apache, Bind, vsftp, OpenLDAP, OpenVPN, sshd
+* Virtualization: KVM, Xen, Vagrant, VMware, VirtualBox
+* Monitoring: Nagios, Icinga, Zabbix
+* Big data and logs: Splunk, syslog-ng
 * Databases: MySQL, Oracle
 * HA: Pacemaker, DRBD
 * Hardware: Supermicro, HP, Ironport, Cisco, EMC, Netapp
-* Certificates: LPIC-2, CCENT, CISSP, CCNA
-* Ticketing: RT, Jira
+* Ticketing and PM: RT, Jira, Redmine, Remedy
+* Wikis: MediaWiki, Confluence, MoinMoin
 * Editors: Vim, Atom
-
+* Tools: Ansible, Git, Bacula 
