@@ -24,9 +24,10 @@ at First Data (Bratislava, 2016 - present)
 Sr. Linux Systems Specialist
 at Eset [Bratislava, 2015 - 2016]
 
-* Administering Linux servers and related technologies.
-* Implementing a configuration management tool.
-* Learning Python.
+* Administering Linux servers and services running on top of them (ex. MySQL,
+  Posffix).
+* Implementing a configuration management tool and some other DevOps patterns
+  (like infrastructure as code, automated testing).
 
 System and Network Administrator
 at Institute of Science and Technology Austria [Vienna, 2013 - 2015]
