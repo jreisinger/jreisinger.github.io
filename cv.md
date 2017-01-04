@@ -80,7 +80,7 @@ University of Economics [1998 - 2004]
 
 Bilingual high-school, Slovak - Italian [1993 - 1998]
 
-Technologies and tools
+Technologies and Tools
 ----------------------
 
 I am familiar with and have used these in production:
