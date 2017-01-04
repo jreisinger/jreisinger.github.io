@@ -80,13 +80,12 @@ University of Economics [1998 - 2004]
 
 Bilingual high-school, Slovak - Italian [1993 - 1998]
 
-Skills
-------
+Technologies and tools
+----------------------
 
-I am familiar with and have used these technologies, tools and languages in
-production:
+I am familiar with and have used these in production:
 
-* Linux: Debian, RHEL, CentOS
+* Linux: Debian, Ubuntu, RHEL, CentOS
 * UNIX: Solaris, OpenBSD
 * Programming: Perl, Bash, Python, Git
 * Networking: iptables, Linux networking, Cisco switches, GSM
