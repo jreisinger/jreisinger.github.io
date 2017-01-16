@@ -22,6 +22,7 @@ at First Data (Bratislava, 2016 - present)
 * Full-stack administration of a large log management solution based on Splunk
   and syslog-ng running on Linux (CentOS/RHEL).
 * Implemented a monitoring system using Python, Perl and Bash.
+* Implemented a testing environment using VirtualBox, Vagrant, Ansible
 
 Sr. Linux Systems Specialist
 at Eset [Bratislava, 2015 - 2016]
