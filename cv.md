@@ -17,7 +17,7 @@ Work Experience
 ---------------
 
 Security Engineer
-at First Data (Bratislava, 2016 - present)
+at First Data [Bratislava, 2016 - present]
 
 * Full-stack administration of a large log management solution based on Splunk
   and syslog-ng running on Linux (CentOS/RHEL).
