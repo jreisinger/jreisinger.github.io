@@ -15,9 +15,7 @@ job](http://catb.org/esr/writings/unix-koans/shell-tools.html)" philosophy.
 
 More information about me can be found here:
 
--   formal [CV](cv.html),
-    [LinkedIn](http://sk.linkedin.com/in/jozefreisinger) account (might be
-    outdated)
+-   formal [CV](cv.html) and [LinkedIn](http://sk.linkedin.com/in/jozefreisinger) account (might be outdated)
 -   [blog](http://jreisinger.blogspot.com/) (technical documentation,
     notes and diary)
 -   [some](https://metacpan.org/pod/App::Monport) [of](https://github.com/skx/sysadmin-util/blob/master/ssh-test) [my](https://github.com/jreisinger/ansible-role-awsserver) [code](https://github.com/jreisinger)
