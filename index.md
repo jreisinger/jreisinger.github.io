@@ -17,7 +17,7 @@ More information about me can be found here:
 
 -   formal [CV](cv.html),
     [LinkedIn](http://sk.linkedin.com/in/jozefreisinger) account (might be
-    outdated) and Perl [résumé](http://perlresume.org/REISINGE)
+    outdated)
 -   [blog](http://jreisinger.blogspot.com/) (technical documentation,
     notes and diary)
 -   [some](https://metacpan.org/pod/App::Monport) [of](https://github.com/skx/sysadmin-util/blob/master/ssh-test) [my](https://github.com/jreisinger/ansible-role-awsserver) [code](https://github.com/jreisinger)
