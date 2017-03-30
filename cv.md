@@ -11,7 +11,12 @@ Phone: +421 948 525 610
 Professional Summary
 --------------------
 
-I have been doing IT related stuff for companies of varied sizes and types. My experience is mainly in system administration (5+ years) and IT auditing and security (5+ years). I have touched several infrastructures and written quite a few scripts/programs. I try to stay on top of new technologies and practices, and use them when/where appropriate. I am not bad at managing smaller projects and teams. I can communicate well with technical and non-technical folks.
+I have been doing IT related stuff for companies of varied sizes and types for
+10+ years. My experience is mainly in system administration and IT security. I
+have touched several infrastructures and written quite a few scripts/programs.
+I try to stay on top of new technologies and practices and use them when/where
+appropriate. I am not bad at managing smaller projects and teams. I can
+communicate well with technical and non-technical folks.
 
 Work Experience
 ---------------
