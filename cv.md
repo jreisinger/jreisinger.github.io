@@ -8,9 +8,6 @@ Email: <jozef.reisinger@gmail.com>
 
 Phone: +421 948 525 610
 
-Professional Summary
---------------------
-
 I have been doing IT related stuff for companies of varied sizes and types for
 10+ years. My experience is mainly in system administration and IT security. I
 have touched several infrastructures and written quite a few scripts/programs.
