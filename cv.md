@@ -54,7 +54,7 @@ at Kedros [Bratislava, 2009 - 2011]
 * Writing automation scripts in Unix shell and Perl.
 * Project delivery management.
 
-IT Auditor (System Administrator)
+IT Auditor
 at Slovak Telekom [Bratislava, 2004 - 2006, 2011 - 2013]
 
 * Performing audits in IT, networking and IT security areas (Internet facing
@@ -108,4 +108,4 @@ I am familiar with and have used these in production:
 * Backups: Bacula, ZFS, rsnapshot, rsync
 * Configuration management: Ansible
 * Security: nmap, tcpdump
-* Natural languages: English, Slovak, Italian
+* Natural languages: English, Italian, Czech, Slovak
