@@ -24,7 +24,6 @@ More information about me can be found here:
 -   [tweets](https://twitter.com/JozefReisinger) and [photos](https://www.flickr.com/photos/jozrei)
 -   wish [list](http://amzn.com/w/23WE353M6O53S) (buy me things if you
     want to make me happy :-))
--   [one](http://quote.reisinge.net) of my favorite [quotes](https://raw.githubusercontent.com/jreisinger/blog/master/posts/quotes.txt)
 
 ![me@dc](rack_top.jpg "Hmmm, why oh why, isn't it working ... :-)")
 
