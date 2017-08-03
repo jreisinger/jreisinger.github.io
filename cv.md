@@ -91,7 +91,7 @@ I am familiar with and have used the following in production:
 Operating systems
 
 * Linux: Debian, Ubuntu, RHEL, CentOS
-* UNIX: Solaris, OpenBSD
+* Unix: Solaris, OpenBSD
 * virtualization: KVM, Xen, Vagrant, VMware, VirtualBox, OpenStack
 
 Languages
@@ -101,19 +101,19 @@ Languages
 
 Networking
 
-* Linux networking, iptables, Cisco switches, GSM
+* general: Linux networking, iptables, Cisco switches, GSM
 * daemons: Apache, Bind, vsftp, OpenLDAP, OpenVPN, sshd, nginx
 
 Various
 
+* configuration management: Ansible
 * monitoring: Nagios, Icinga, Zabbix
 * big data and logs: Splunk, syslog-ng
 * databases: MySQL, Oracle
-* HA: Pacemaker, DRBD
+* HA: Pacemaker, DRBD, HAProxy
 * hardware: Supermicro, HP, Ironport, Cisco, EMC, Netapp
-* tickets, bugs and projects: RT, Jira, Redmine, Remedy
-* wikis: MediaWiki, Confluence, MoinMoin
-* editors: Vim, Atom, Notepad++
 * backups: Bacula, ZFS, rsnapshot, rsync
-* configuration management: Ansible
+* editors: Vim, Atom, Notepad++
+* wikis: MediaWiki, Confluence, MoinMoin
+* tickets, bugs and projects: RT, Jira, Redmine, Remedy
 * other: nmap, tcpdump, git, GitLab, Slack
