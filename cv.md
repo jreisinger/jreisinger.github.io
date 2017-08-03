@@ -86,23 +86,34 @@ Bilingual high-school, Slovak - Italian [1993 - 1998]
 Technologies and Tools
 ----------------------
 
-I am familiar with and have used these in production:
+I am familiar with and have used the following in production:
+
+Operating systems
 
 * Linux: Debian, Ubuntu, RHEL, CentOS
 * UNIX: Solaris, OpenBSD
-* Programming: Perl, Bash, Python, Git
-* Networking: iptables, Linux networking, Cisco switches, GSM
-* Network daemons: Apache, Bind, vsftp, OpenLDAP, OpenVPN, sshd
-* Virtualization: KVM, Xen, Vagrant, VMware, VirtualBox
-* Monitoring: Nagios, Icinga, Zabbix
-* Big data and logs: Splunk, syslog-ng
-* Databases: MySQL, Oracle
+* virtualization: KVM, Xen, Vagrant, VMware, VirtualBox, OpenStack
+
+Languages
+
+* artificial: Perl, Bash, Python
+* natural: English, Italian, Czech, Slovak
+
+Networking
+
+* Linux networking, iptables, Cisco switches, GSM
+* daemons: Apache, Bind, vsftp, OpenLDAP, OpenVPN, sshd, nginx
+
+Various
+
+* monitoring: Nagios, Icinga, Zabbix
+* big data and logs: Splunk, syslog-ng
+* databases: MySQL, Oracle
 * HA: Pacemaker, DRBD
-* Hardware: Supermicro, HP, Ironport, Cisco, EMC, Netapp
-* Tickets, bugs and projects: RT, Jira, Redmine, Remedy
-* Wikis: MediaWiki, Confluence, MoinMoin
-* Editors: Vim, Atom, Notepad++
-* Backups: Bacula, ZFS, rsnapshot, rsync
-* Configuration management: Ansible
-* Security: nmap, tcpdump
-* Natural languages: English, Italian, Czech, Slovak
+* hardware: Supermicro, HP, Ironport, Cisco, EMC, Netapp
+* tickets, bugs and projects: RT, Jira, Redmine, Remedy
+* wikis: MediaWiki, Confluence, MoinMoin
+* editors: Vim, Atom, Notepad++
+* backups: Bacula, ZFS, rsnapshot, rsync
+* configuration management: Ansible
+* other: nmap, tcpdump, git, GitLab, Slack
