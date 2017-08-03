@@ -30,7 +30,7 @@ Sr. Linux Systems Specialist
 at Eset [Bratislava, 2015 - 2016]
 
 * Administering Linux (Debian/Ubuntu) servers and services running on top of
-  them (ex.  MySQL, Posffix).
+  them (ex.  MySQL, Postfix).
 * Implementing a configuration management tool (Ansible) and some other DevOps
   patterns like infrastructure as code, automated testing.
 
