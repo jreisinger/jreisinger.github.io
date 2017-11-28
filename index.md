@@ -18,7 +18,7 @@ More information about me can be found here:
 -   formal [CV](cv.html) and [LinkedIn](http://sk.linkedin.com/in/jozefreisinger) account
 -   [blog](http://jreisinger.blogspot.com/) and [wiki](http://wiki.reisinge.net)
 -   [some](https://metacpan.org/author/REISINGE) of my [code](https://github.com/jreisinger)
--   [StackExchange](https://stackexchange.com/users/1010742/jreisinger?tab=activity)
+-   [StackExchange](https://stackexchange.com/users/1010742/jreisinger)
     and the [Monastery](http://perlmonks.org/?node_id=6364;user=reisinge)
     activities
 -   [tweets](https://twitter.com/JozefReisinger) and [photos](https://www.flickr.com/photos/jozrei)
