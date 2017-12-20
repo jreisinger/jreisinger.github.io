@@ -18,7 +18,7 @@ communicate well with technical and non-technical folks.
 Work Experience
 ---------------
 
-Sr. Security Engineer
+Sr. Security Engineer (SRE)
 at Pan-Net [Bratislava, 2017 - present]
 
 * Building and running open source security services the DevOps way
