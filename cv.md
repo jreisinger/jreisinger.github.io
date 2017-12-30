@@ -122,4 +122,5 @@ Various
 * wikis: MediaWiki, Confluence, MoinMoin
 * tickets, bugs and projects: RT, Jira, Redmine, Remedy
 * security: nmap, tcpdump, OSSEC
-* other: git, GitLab, Slack
+* VCS, CI/CD: git, GitHub, GitLab, Travis
+* communication: Slack
