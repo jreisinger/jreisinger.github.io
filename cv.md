@@ -18,8 +18,8 @@ communicate well with technical and non-technical folks.
 Work Experience
 ---------------
 
-Sr. Security Engineer (SRE)
-at Pan-Net [Bratislava, 2017 - present]
+Sr. Security Engineer/SRE
+at DT Pan-Net [Bratislava, 2017 - present]
 
 * Building and running open source security services the DevOps way
 
@@ -47,7 +47,7 @@ at Institute of Science and Technology Austria [Vienna, 2013 - 2015]
 * Building tools and automating tasks via Perl, Bash and Ansible (e.g. wrote backup and virtual machines monitoring software using MySQL and Perl Dancer).
 * Migrating monitoring system from Nagios to clustered Icinga2 setup.
 
-System Administrator (DevOps)
+System Administrator/DevOps
 at Kedros [Bratislava, 2009 - 2011]
 
 * Administration of Linux (Debian) based infrastructure.
@@ -91,13 +91,13 @@ Bilingual high-school, Slovak - Italian [1993 - 1998]
 Technologies and Tools
 ----------------------
 
-I am familiar with and have used the following in production:
+I am familiar with and have used the following technologies professionally:
 
 Operating systems
 
-* Linux: Debian, Ubuntu, RHEL, CentOS
-* Unix: Solaris, OpenBSD
-* virtualization: KVM, Xen, Vagrant, VMware, VirtualBox, OpenStack
+* Linux/UNIX: Debian, Ubuntu, RHEL, CentOS, Solaris, OpenBSD
+* virtualization/cointainers: KVM, Vagrant, VMware, VirtualBox, OpenStack,
+  Docker, Kubernetes
 
 Languages
 
@@ -118,7 +118,8 @@ Various
 * HA: Pacemaker, DRBD, HAProxy
 * hardware: Supermicro, HP, Ironport, Cisco, EMC, Netapp
 * backups: Bacula, ZFS, rsnapshot, rsync
-* editors: Vim, Atom, Notepad++
+* editors: Vi(m), Atom, Notepad++
 * wikis: MediaWiki, Confluence, MoinMoin
 * tickets, bugs and projects: RT, Jira, Redmine, Remedy
-* other: nmap, tcpdump, git, GitLab, Slack
+* security: nmap, tcpdump, OSSEC
+* other: git, GitLab, Slack
