@@ -15,8 +15,8 @@ I try to stay on top of new technologies and practices and use them when/where
 appropriate. I am not bad at managing smaller projects and teams. I can
 communicate well with technical and non-technical folks.
 
-Work Experience
----------------
+Selected employment history
+---------------------------
 
 Sr. Security Engineer/SRE
 at DT Pan-Net [Bratislava, 2017 - present]
