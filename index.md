@@ -19,7 +19,7 @@ More information about me can be found here:
 -   [blog](https://jreisinger.blogspot.com/) and [wiki](https://wiki.reisinge.net)
 -   [some](https://metacpan.org/author/REISINGE) of my [code](https://github.com/jreisinger)
 -   [StackExchange](https://stackexchange.com/users/1010742/jreisinger)
-    and the [Monastery](https://perlmonks.org/?node_id=6364;user=reisinge)
+    and the [Monastery](http://perlmonks.org/?node_id=6364;user=reisinge)
     activities
 -   [tweets](https://twitter.com/JozefReisinger) and [photos](https://www.flickr.com/photos/jozrei)
 -   wish [list](https://amzn.com/w/23WE353M6O53S) (buy me things if you
