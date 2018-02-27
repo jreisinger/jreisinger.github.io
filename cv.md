@@ -18,7 +18,7 @@ communicate well with technical and non-technical folks.
 Selected employment history
 ---------------------------
 
-Sr. Security Engineer/SRE
+Sr. Security Engineer
 at DT Pan-Net [Bratislava, 2017 - present]
 
 * Building and running open source security services the DevOps way
@@ -47,7 +47,7 @@ at Institute of Science and Technology Austria [Vienna, 2013 - 2015]
 * Building tools and automating tasks via Perl, Bash and Ansible (e.g. wrote backup and virtual machines monitoring software using MySQL and Perl Dancer).
 * Migrating monitoring system from Nagios to clustered Icinga2 setup.
 
-System Administrator/DevOps
+System Administrator
 at Kedros [Bratislava, 2009 - 2011]
 
 * Administration of Linux (Debian) based infrastructure.
@@ -97,7 +97,7 @@ Operating systems
 
 * Linux/UNIX: Debian, Ubuntu, RHEL, CentOS, Solaris, OpenBSD
 * virtualization/cointainers: KVM, Vagrant, VMware, VirtualBox, OpenStack,
-  Docker, Kubernetes
+  Docker
 
 Languages
 
@@ -112,15 +112,15 @@ Networking
 Various
 
 * configuration management: Ansible
-* monitoring: Nagios, Icinga, Zabbix
-* big data and logs: Splunk, syslog-ng
+* monitoring: Nagios, Icinga, Zabbix, Prometheus
+* big data and logs: Splunk, syslog-ng, Graylog
 * databases: MySQL, Oracle
-* HA: Pacemaker, DRBD, HAProxy
+* HA: Pacemaker, DRBD, HAProxy, keepalived
 * hardware: Supermicro, HP, Ironport, Cisco, EMC, Netapp
 * backups: Bacula, ZFS, rsnapshot, rsync
 * editors: Vi(m), Atom, Notepad++
-* wikis: MediaWiki, Confluence, MoinMoin
-* tickets, bugs and projects: RT, Jira, Redmine, Remedy
-* security: nmap, tcpdump, OSSEC
+* documentation: MediaWiki, Confluence, MoinMoin, Hugo
+* tickets, bugs and projects: RT, Jira, Redmine, Remedy, GitLab
+* security: nmap, tcpdump, OSSEC, Metasploit
 * VCS, CI/CD: git, GitHub, GitLab, Travis
 * communication: Slack
