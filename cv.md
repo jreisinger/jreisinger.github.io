@@ -113,7 +113,7 @@ Various
 
 * configuration management: Ansible
 * monitoring: Nagios, Icinga, Zabbix, Prometheus
-* big data and logs: Splunk, syslog-ng, Graylog
+* big data and logs: Splunk, syslog-ng, Graylog, Grafana
 * databases: MySQL, Oracle
 * HA: Pacemaker, DRBD, HAProxy, keepalived
 * hardware: Supermicro, HP, Ironport, Cisco, EMC, Netapp
