@@ -21,7 +21,7 @@ Selected employment history
 Sr. Security Engineer
 at DT Pan-Net [Bratislava, 2017 - present]
 
-* Building and running open source security services the DevOps way
+* Building and running open source security services the DevOps way.
 
 Security Engineer
 at First Data [Bratislava, 2016 - 2017]
@@ -29,7 +29,7 @@ at First Data [Bratislava, 2016 - 2017]
 * Full-stack administration of a large log management solution based on Splunk
   and syslog-ng running on Linux (CentOS/RHEL).
 * Implemented a monitoring system using Python, Perl and Bash.
-* Implemented a testing environment using VirtualBox, Vagrant, Ansible
+* Implemented a testing environment using VirtualBox, Vagrant, Ansible.
 
 Sr. Linux Systems Specialist
 at Eset [Bratislava, 2015 - 2016]
