@@ -19,7 +19,7 @@ the job](http://catb.org/esr/writings/unix-koans/shell-tools.html)" philosophy.
 More information about me can be found here:
 
 -   formal [CV](cv.html) and [LinkedIn](https://sk.linkedin.com/in/jozefreisinger) account
--   [blog](https://jreisinger.blogspot.com/) and [wiki](https://wiki.reisinge.net)
+-   [blog](https://jreisinger.blogspot.com/) and [wiki](http://wiki.reisinge.net)
 -   [some](https://metacpan.org/author/REISINGE) of my [code](https://github.com/jreisinger)
 -   [StackExchange](https://stackexchange.com/users/1010742/jreisinger)
     and the [Monastery](http://perlmonks.org/?node_id=6364;user=reisinge)
