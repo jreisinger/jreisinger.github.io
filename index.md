@@ -8,7 +8,13 @@ header-includes:
 
 > Noi siamo quello che facciamo. -- L. Sciascia
 
-I am interested, among other things, in universal machines for information storage and manipulation :-). I like to find out how computer systems work and how to use and manage them effectively. To be a bit more specific, I dabble in system administration (operations), security and programming. Some of my preferred IT tools are GNU/Linux and [Perl](https://www.perl.org), although I try to practice the "[right tool for the job](http://catb.org/esr/writings/unix-koans/shell-tools.html)" philosophy.
+I am interested, among other things, in universal machines for information
+storage and manipulation :-). I like to find out how computer systems work and
+how to use and manage them effectively. To be a bit more specific, I dabble in
+system administration (operations), security and programming. Some of my
+preferred IT tools are GNU/Linux and [Perl](https://www.perl.org), although I
+try to practice the "[right tool for the
+job](http://catb.org/esr/writings/unix-koans/shell-tools.html)" philosophy.
 
 More information about me can be found here:
 
