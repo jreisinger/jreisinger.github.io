@@ -8,6 +8,8 @@ header-includes:
 
 > Noi siamo quello che facciamo. -- L. Sciascia
 
+<img style="float: right;" src="rack_top.jpg" title="Hmmm, why oh why, isn&#39;t it working ... :-)" alt="me@dc" />
+
 I am interested, among other things, in universal machines for information
 storage and manipulation :-). I like to find out how computer systems work and
 how to use and manage them effectively. To be a bit more specific, I dabble in
@@ -31,9 +33,6 @@ More information about me can be found here:
 Projects:
 
 -   [profesia jobs](http://jreisinger.github.io/profesia-jobs)
-
-![me@dc](rack_top.jpg "Hmmm, why oh why, isn't it working ... :-)")
-<img style="float: right;" src="rack_top.jpg" title="Hmmm, why oh why, isn&#39;t it working ... :-)" alt="me@dc" />
 
 [![Valid XHTML 1.0
 Transitional](https://www.w3.org/Icons/valid-xhtml10-blue)](https://validator.w3.org/check?uri=http://jreisinger.github.io)
