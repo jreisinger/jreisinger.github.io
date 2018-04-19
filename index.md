@@ -28,6 +28,10 @@ More information about me can be found here:
 -   wish [list](https://amzn.com/w/23WE353M6O53S) (buy me things if you
     want to make me happy :-))
 
+Projects:
+
+-   [profesia jobs](jreisinger.github.io/profesia-jobs)
+
 ![me@dc](rack_top.jpg "Hmmm, why oh why, isn't it working ... :-)")
 
 [![Valid XHTML 1.0
