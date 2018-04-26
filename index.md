@@ -14,19 +14,23 @@ I am interested, among other things, in universal machines for information stora
 
 More information about me can be found here:
 
--   formal [CV](cv.html) and [LinkedIn](https://sk.linkedin.com/in/jozefreisinger) account
--   [blog](https://jreisinger.blogspot.com/) and [wiki](http://wiki.reisinge.net)
--   [some](https://metacpan.org/author/REISINGE) of my [code](https://github.com/jreisinger)
--   [StackExchange](https://stackexchange.com/users/1010742/jreisinger)
-    and the [Monastery](http://perlmonks.org/?node_id=6364;user=reisinge)
-    activities
--   [tweets](https://twitter.com/JozefReisinger) and [photos](https://www.flickr.com/photos/jozrei)
--   wish [list](https://amzn.com/w/23WE353M6O53S) (buy me things if you
-    want to make me happy :-))
+- formal [CV](cv.html) and [LinkedIn](https://sk.linkedin.com/in/jozefreisinger) account
+- [blog](https://jreisinger.blogspot.com/) and [wiki](http://wiki.reisinge.net)
+- [some](https://metacpan.org/author/REISINGE) of my [code](https://github.com/jreisinger)
+- [StackExchange](https://stackexchange.com/users/1010742/jreisinger)
+  and the [Monastery](http://perlmonks.org/?node_id=6364;user=reisinge)
+  activities
+- [tweets](https://twitter.com/JozefReisinger) and [photos](https://www.flickr.com/photos/jozrei)
+- wish [list](https://amzn.com/w/23WE353M6O53S) (buy me things if you
+  want to make me happy :-))
 
 Projects:
 
--   [profesia jobs](http://jreisinger.github.io/profesia-jobs)
+- [profesia jobs](http://jreisinger.github.io/profesia-jobs)
+
+Pearl I found on the Internet:
+
+- [the saddest phone in Berlin](http://perlmonks.org/?node_id=324763)
 
 [![Valid XHTML 1.0
 Transitional](https://www.w3.org/Icons/valid-xhtml10-blue)](https://validator.w3.org/check?uri=http://jreisinger.github.io)
