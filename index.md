@@ -10,7 +10,7 @@ header-includes:
 
 <img style="float: right;" src="rack_top.jpg" title="Hmmm, why oh why, isn&#39;t it working ... :-)" alt="me@dc" />
 
-I am interested, among other things, in universal machines for information storage and manipulation :-). I like to find out how computer systems work and how to use and manage them effectively. To be a bit more specific, I dabble in system administration (operations), security and programming. Some of my preferred IT tools are GNU/Linux, Bash and ~~[Perl](https://www.perl.org)~~Python. I try to practice the "[right tool for the job](http://catb.org/esr/writings/unix-koans/shell-tools.html)" philosophy. [I](https://github.com/jreisinger/have-done) monkey with [new](https://github.com/jreisinger/blog/blob/master/posts/devops.md) [technologies](https://github.com/jreisinger/blog/blob/master/posts/docker.md) and [languages](https://golang.org/) from time to time.
+I am interested, among other things, in universal machines for information storage and manipulation :-). I like to find out how computer systems work and how to use and manage them effectively. To be a bit more specific, I dabble in system administration (operations), security and programming. Some of the IT tools I like are GNU/Linux and ~~Bash~~~~[Perl](https://www.perl.org)~~Python. I try to practice the "[right tool for the job](http://catb.org/esr/writings/unix-koans/shell-tools.html)" philosophy. [I](https://github.com/jreisinger/have-done) monkey with [new](https://github.com/jreisinger/blog/blob/master/posts/devops.md) [technologies](https://github.com/jreisinger/blog/blob/master/posts/docker.md) and [languages](https://golang.org/) from time to time.
 
 More information about me:
 
