@@ -121,6 +121,6 @@ Various
 * editors: Vi(m), Atom, Notepad++
 * documentation: MediaWiki, Confluence, MoinMoin, Hugo
 * tickets, bugs and projects: RT, Jira, Redmine, Remedy, GitLab
-* security: nmap, tcpdump, OSSEC, Metasploit
+* security: nmap, tcpdump, Wireshark, OSSEC, Metasploit
 * VCS, CI/CD: git, GitHub, GitLab, Travis
-* communication: Slack
+* chatops: Slack
