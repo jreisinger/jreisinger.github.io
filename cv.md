@@ -91,7 +91,7 @@ Bilingual high-school, Slovak - Italian [1993 - 1998]
 Technologies and Tools
 ----------------------
 
-I am familiar with and have used the following technologies professionally:
+I am familiar (to varying levels) with and have used the following technologies professionally:
 
 Operating systems
 
