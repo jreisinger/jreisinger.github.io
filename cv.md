@@ -21,7 +21,7 @@ Selected employment history
 Sr. Security Engineer
 at DT Pan-Net [Bratislava, 2017 - present]
 
-* Building and operating security services the DevOps way (WAF, containers infrastructure).
+* Building and operating infrastructure services (WAF, DNS, containers) the DevOps way.
 * Managing API development project.
 
 Security Engineer
