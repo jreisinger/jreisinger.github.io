@@ -21,7 +21,8 @@ Selected employment history
 Sr. Security Engineer
 at DT Pan-Net [Bratislava, 2017 - present]
 
-* Building and running open source security services the DevOps way.
+* Building and operating security services the DevOps way (WAF, containers infrastructure).
+* Managing API development project.
 
 Security Engineer
 at First Data [Bratislava, 2016 - 2017]
