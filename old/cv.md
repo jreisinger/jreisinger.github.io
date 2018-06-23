@@ -21,7 +21,8 @@ Selected employment history
 Sr. Security Engineer
 at DT Pan-Net [Bratislava, 2017 - present]
 
-* Building and running open source security services the DevOps way.
+* Building and operating infrastructure services (WAF, DNS, containers) the DevOps way.
+* Managing API development project.
 
 Security Engineer
 at First Data [Bratislava, 2016 - 2017]
@@ -91,7 +92,7 @@ Bilingual high-school, Slovak - Italian [1993 - 1998]
 Technologies and Tools
 ----------------------
 
-I am familiar with and have used the following technologies professionally:
+I am familiar (to varying levels) with and have used the following technologies professionally:
 
 Operating systems
 
@@ -121,6 +122,6 @@ Various
 * editors: Vi(m), Atom, Notepad++
 * documentation: MediaWiki, Confluence, MoinMoin, Hugo
 * tickets, bugs and projects: RT, Jira, Redmine, Remedy, GitLab
-* security: nmap, tcpdump, OSSEC, Metasploit
+* security: nmap, tcpdump, Wireshark, OSSEC, Metasploit
 * VCS, CI/CD: git, GitHub, GitLab, Travis
-* communication: Slack
+* chatops: Slack
