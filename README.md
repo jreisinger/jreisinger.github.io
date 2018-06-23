@@ -1,3 +1,1 @@
-To generate HTML files from Markdown ones:
-
-    ./gen-html
+My home [page](http://jreisinger.github.io). See `old` for the old one.
