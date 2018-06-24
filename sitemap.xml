@@ -3,20 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jreisinger.github.io/about/</loc>
+    <loc>http://jreisinger.github.io/cv/</loc>
+    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jreisinger.github.io/cv/</loc>
+    <loc>http://jreisinger.github.io/links/</loc>
+    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jreisinger.github.io/about/</loc>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://jreisinger.github.io/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jreisinger.github.io/links/</loc>
   </url>
   
   <url>
@@ -26,6 +29,7 @@
   
   <url>
     <loc>http://jreisinger.github.io/</loc>
+    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
