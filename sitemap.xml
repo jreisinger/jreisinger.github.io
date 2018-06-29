@@ -23,6 +23,12 @@
   </url>
   
   <url>
+    <loc>http://jreisinger.github.io/</loc>
+    <lastmod>2018-06-28T12:44:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://jreisinger.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -34,12 +40,6 @@
   
   <url>
     <loc>http://jreisinger.github.io/thoughts/</loc>
-    <lastmod>2018-06-28T12:44:43+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jreisinger.github.io/</loc>
     <lastmod>2018-06-28T12:44:43+02:00</lastmod>
     <priority>0</priority>
   </url>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thoughts on reisinge</title>
+    <title>Thoughts on $HOME</title>
     <link>http://jreisinger.github.io/thoughts/</link>
-    <description>Recent content in Thoughts on reisinge</description>
+    <description>Recent content in Thoughts on $HOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Jun 2018 12:44:43 +0200</lastBuildDate>
