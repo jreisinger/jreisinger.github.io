@@ -10,5 +10,14 @@
 	<atom:link href="http://jreisinger.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Os</title>
+      <link>http://jreisinger.github.io/categories/os/</link>
+      <pubDate>Thu, 20 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://jreisinger.github.io/categories/os/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

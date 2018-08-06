@@ -11,10 +11,10 @@
 
     <base href="http://jreisinger.github.io/">
     <title>
-  Categories · $USER
+  Generate Random File · $USER
 </title>
 
-    <link rel="canonical" href="http://jreisinger.github.io/categories/">
+    <link rel="canonical" href="http://jreisinger.github.io/notes/gen_rand_file/">
 
     <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Mono:400,700">
     <link rel="stylesheet" href="//cdn.rawgit.com/necolas/normalize.css/master/normalize.css">
@@ -27,9 +27,6 @@
     <link rel="icon" type="image/png" href="http://jreisinger.github.io/images/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="http://jreisinger.github.io/images/favicon-16x16.png" sizes="16x16">
 
-    
-      <link href="http://jreisinger.github.io/categories/index.xml" rel="alternate" type="application/rss+xml" title="$USER" />
-      <link href="http://jreisinger.github.io/categories/index.xml" rel="feed" type="application/rss+xml" title="$USER" />
     
 
     <meta name="generator" content="Hugo 0.46" />
@@ -70,28 +67,34 @@
 
       <div class="content">
         
-  <section class="container list">
-  <h1 class="title">Categories</h1>
-  
-  <p>
-    <a href="http://jreisinger.github.io/categories">categories</a>
-    <a href="http://jreisinger.github.io/tags">tags</a>
-  </p>
+  <section class="container page">
+  <article>
+    <header>
+      <h1>Generate Random File</h1>
+    </header>
 
-  <ul>
     
-    <li>
-      <span>March 20, 2014</span><a href="http://jreisinger.github.io/categories/os/">Os</a>
-    </li>
-    
-  </ul>
-  
 
+<p>How to generate a file of a defined size (ex. 100MB) with random content</p>
 
+<h2 id="binary-file">binary file:</h2>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4">dd if=/dev/urandom of=file.dat bs=1M count=100</pre></div>
+<p>or</p>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4">dd if=/dev/urandom of=file.dat bs=`echo $((100*1024*1024))` count=1
+dd if=/dev/urandom of=file.dat bs=1024 count=`echo $((100*1024))`</pre></div>
+<ul>
+<li><code>bs</code> &ndash; block size in bytes</li>
+</ul>
 
+<h2 id="text-file">text file:</h2>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4">base64 /dev/urandom | dd of=file.txt bs=1M count=100 iflag=fullblock</pre></div>
+<ul>
+<li><code>base64</code> represents (encodes) binary data using printable ASCII characters</li>
+</ul>
 
-
-
+<h2 id="empty-file">empty file:</h2>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4">dd if=/dev/zero of=file.dat bs=1M count=100</pre></div>
+  </article>
 </section>
 
 
