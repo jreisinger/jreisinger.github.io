@@ -3,23 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jreisinger.github.io/posts/test/</loc>
-    <lastmod>2018-08-06T15:33:02+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jreisinger.github.io/posts/devops/</loc>
-    <lastmod>2016-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jreisinger.github.io/posts/gen_rand_file/</loc>
-    <lastmod>2014-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://jreisinger.github.io/</loc>
-    <lastmod>2018-08-06T15:33:02+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -37,60 +21,11 @@
   </url>
   
   <url>
-    <loc>http://jreisinger.github.io/tags/dd/</loc>
-    <lastmod>2014-03-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jreisinger.github.io/tags/devops/</loc>
-    <lastmod>2016-11-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://jreisinger.github.io/links/</loc>
   </url>
   
   <url>
-    <loc>http://jreisinger.github.io/tags/linux/</loc>
-    <lastmod>2014-03-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jreisinger.github.io/categories/note/</loc>
-    <lastmod>2016-11-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jreisinger.github.io/tags/os/</loc>
-    <lastmod>2014-03-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jreisinger.github.io/posts/</loc>
-    <lastmod>2018-08-06T15:33:02+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://jreisinger.github.io/tags/</loc>
-    <lastmod>2014-03-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jreisinger.github.io/tags/test/</loc>
-    <lastmod>2018-08-06T15:33:02+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jreisinger.github.io/categories/test/</loc>
-    <lastmod>2018-08-06T15:33:02+02:00</lastmod>
     <priority>0</priority>
   </url>
   
