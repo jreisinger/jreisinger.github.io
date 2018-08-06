@@ -11,11 +11,20 @@
     
     
     <item>
-      <title>Os</title>
-      <link>http://jreisinger.github.io/categories/os/</link>
-      <pubDate>Thu, 20 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Note</title>
+      <link>http://jreisinger.github.io/categories/note/</link>
+      <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://jreisinger.github.io/categories/os/</guid>
+      <guid>http://jreisinger.github.io/categories/note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://jreisinger.github.io/categories/test/</link>
+      <pubDate>Mon, 06 Aug 2018 15:33:02 +0200</pubDate>
+      
+      <guid>http://jreisinger.github.io/categories/test/</guid>
       <description></description>
     </item>
     
