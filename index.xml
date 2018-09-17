@@ -1,54 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>$HOME</title>
+    <title>$USER</title>
     <link>http://jreisinger.github.io/</link>
-    <description>Recent content on $HOME</description>
+    <description>Recent content on $USER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jun 2018 12:44:43 +0200</lastBuildDate>
     
 	<atom:link href="http://jreisinger.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Should I?</title>
-      <link>http://jreisinger.github.io/thoughts/should-i/</link>
-      <pubDate>Thu, 28 Jun 2018 12:44:43 +0200</pubDate>
+      <title>About</title>
+      <link>http://jreisinger.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jreisinger.github.io/thoughts/should-i/</guid>
-      <description>Should I put some thoughts of mine here? Do I have any worth of putting here? Does it make sense? Let&amp;rsquo;s see &amp;hellip; :-)</description>
+      <guid>http://jreisinger.github.io/about/</guid>
+      <description>I am interested in universal machines for information storage and manipulation :-). Among other things. To be a bit more specific, I dabble in systems administration, security and programming. I try to be nice to people. I like sports, books and languages.
+Subjective assesment of selected skills of mine:
+beginner--+ +--intermediate | | +--expert | | | v v v Italian +++++++ Perl ++++++ Linux +++++ Bash +++++ People ++++ DevOps +++ Python +++ Docker ++ Go + Kubernetes + Prometheus + Some of my (free time) software projects:</description>
     </item>
     
     <item>
       <title>CV</title>
       <link>http://jreisinger.github.io/cv/</link>
-      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://jreisinger.github.io/cv/</guid>
-      <description>I have been doing IT related stuff for companies of varied sizes and types for 10+ years. My experience is mainly in systems administration and IT security. I have touched several infrastructures and written quite a few scripts/programs. I try to stay on top of new technologies and practices and use them when/where appropriate. I am not bad at managing smaller projects and teams. I can communicate well with technical and non-technical folks.</description>
+      <description>I have been doing IT related stuff for companies of varied sizes and types for 10+ years. My experience is mainly in systems administration and IT security. I tend to specialize in automation and tools building. I have touched several infrastructures and written quite a few scripts or programs. I try to stay on top of new technologies and practices and use them when/where appropriate. I am not bad at managing smaller projects and teams.</description>
     </item>
     
     <item>
       <title>Links</title>
       <link>http://jreisinger.github.io/links/</link>
-      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://jreisinger.github.io/links/</guid>
-      <description>Pearls I found on the Internet:
- The saddest phone in Berlin How to daemonize a process Larry Wall on Perl, religion, and&amp;hellip; What problems to solve xkcd - Lisp  </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://jreisinger.github.io/about/</link>
-      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://jreisinger.github.io/about/</guid>
-      <description>I am interested in universal machines for information storage and manipulation. Among other things. To be a bit more specific, I dabble in systems administration, security and programming. I try to help other people.
-Buy me things if you want to make me happy :-). I also take some photos from time to time.
-And some of my free time software projects:
- quotes Profesia Jobs App::Monport lsfat checkprocs  </description>
+      <description>Some of my (free time) software projects:
+ quotes Profesia Jobs App::Monport lsfat checkprocs  Pearls I found on the Internet:
+ The saddest phone in Berlin How to daemonize a process Larry Wall on Perl, religion, and&amp;hellip; What problems to solve xkcd - Lisp  Buy me stuff if you want to make me happy :-). I take photos from time to time.</description>
     </item>
     
   </channel>
