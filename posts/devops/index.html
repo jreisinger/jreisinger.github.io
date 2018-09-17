@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="Jozef Reisinger">
+    <meta name="description" content="Jozef Reisinger&#39;s home page">
+    <meta name="keywords" content="Linux,programming,security,sysadmin,devops,personal">
+
+    <base href="http://jreisinger.github.io/">
+    <title>
+  Devops · $USER
+</title>
+
+    <link rel="canonical" href="http://jreisinger.github.io/posts/devops/">
+
+    <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Mono:400,700">
+    <link rel="stylesheet" href="//cdn.rawgit.com/necolas/normalize.css/master/normalize.css">
+    <link rel="stylesheet" href="http://jreisinger.github.io/css/style.min.css">
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="http://jreisinger.github.io/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="http://jreisinger.github.io/images/favicon-16x16.png" sizes="16x16">
+
+    
+
+    <meta name="generator" content="Hugo 0.46" />
+  </head>
+
+  <body class="">
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="http://jreisinger.github.io/">
+      $USER
+    </a>
+    <input type="checkbox" id="menu-control"/>
+    <label class="menu-mobile  float-right " for="menu-control">
+      <span class="btn-mobile  float-right ">&#9776;</span>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item   align-left  ">
+              <a class="navigation-link" href="http://jreisinger.github.io/about/">About</a>
+            </li>
+          
+            <li class="navigation-item   align-left  ">
+              <a class="navigation-link" href="http://jreisinger.github.io/cv/">CV</a>
+            </li>
+          
+        
+        
+      </ul>
+    </label>
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+  <article>
+    <header>
+      <h1 class="title">Devops</h1>
+      <h2 class="date">November 20, 2016</h2>
+
+      
+    </header>
+
+    
+
+<blockquote>
+<p>The opposite of DevOps is despair. &ndash; Gene Kim</p>
+
+<p>If HW and SW are sufficiently fault tolerant, the remaining problems are human. &ndash; TPoCSA</p>
+
+<p>CAMS: culture, automation, measurement, and sharing. &ndash; D. Edwards, J. Willis (2010)</p>
+</blockquote>
+
+<p>DevOps is a set of techniques to solve the chronic conflict between Development
+an IT Operations. This conflict causes:</p>
+
+<ul>
+<li>increased time to market</li>
+<li>problematic code deployments</li>
+<li>increased number of Sev 1 outages</li>
+<li>unplanned work</li>
+<li>technical debt</li>
+</ul>
+
+<p>The techniques are:</p>
+
+<ul>
+<li>architecture and processes</li>
+<li>technical practices</li>
+<li>cultural norms</li>
+</ul>
+
+<p>DevOps is an emerging field in operations. The practice of DevOps typically appears in web application and cloud environments, but its influence is spreading to all parts of all industries.</p>
+
+<p>The principles behind DevOps work patterns are the same principles that
+transformed manufacturing.</p>
+
+<p>DevOps has been formed by:</p>
+
+<ul>
+<li>Lean principles</li>
+<li>Agile Community</li>
+<li>Infrastructure as Code</li>
+<li>CI, CD</li>
+<li>Innovation Culture</li>
+<li>Toyota Kata</li>
+</ul>
+
+<p>&ldquo;The Three ways&rdquo; are the underpinning principles that all the DevOps patterns
+can be derived from.</p>
+
+<h2 id="the-first-way-workflow">The First Way - workflow</h2>
+
+<p>To maximaze left-to-right flow of work (from Dev to Ops to the customer) we need:</p>
+
+<ul>
+<li>each step is done in a repeatable way</li>
+<li>small batch sizes and intervals of works</li>
+<li>never passing defects to downstream work centers</li>
+<li>local optimization must not degrade global performance (optimmize for global goals)</li>
+</ul>
+
+<p>Necessary practices:</p>
+
+<ul>
+<li>continuous build, CI, CD</li>
+<li>environments on demand</li>
+<li>limiting WIP</li>
+<li>building safe to change systems and organizations</li>
+</ul>
+
+<h2 id="the-second-way-feedback">The Second Way - feedback</h2>
+
+<p>To prevent problems from happening again or enable faster detection and recovery we need:</p>
+
+<ul>
+<li>constant flow of fast feedback from right-to-left at all stages of the value stream</li>
+</ul>
+
+<p>Practices:</p>
+
+<ul>
+<li>stopping the production line when builds/tests go wrong</li>
+<li>constantly elevating the improvements of daily work over daily work</li>
+<li>fast automated test suites</li>
+<li>shared goals and shared pain between Devs and Ops</li>
+<li>pervasive telemetry</li>
+</ul>
+
+<h2 id="the-third-way-experimentation-repetition-kata">The Third Way - experimentation &amp; repetition (kata)</h2>
+
+<p>Create culture that fosters:</p>
+
+<ul>
+<li><em>continual</em> experimentation (risk taking and learning from success and failure)</li>
+<li>understanding that repetition and practice is the prerequisite to mastery</li>
+</ul>
+
+<p>Practices:</p>
+
+<ul>
+<li>rewarding innovation and risk taking</li>
+<li>rewarding improvements</li>
+<li>at least 20% of Dev and Ops cycles allocated towards nonfunctional requirements</li>
+</ul>
+
+<h2 id="devops-without-devs">DevOps without Devs</h2>
+
+<p>It&rsquo;s possible to apply these DevOps principles to any complex process:</p>
+
+<p>1) Turn chaotic processes into repeatable, measurable ones.
+* document process until consistent =&gt; automate =&gt; self-service</p>
+
+<p>2) Automate.
+* to scale don&rsquo;t do IT tasks but maintain the system that does the IT tasks</p>
+
+<p>3) Talk about problems and issues within and between teams.
+* don&rsquo;t obscure or suffer through problems
+* have channels for communicating problems and issues</p>
+
+<p>4) Try new things, measure the results, keep the successes, and learn from the failures.
+* create a culture of learning and experimentation
+* use management practices that are blameless and reward learning</p>
+
+<p>5) Do work in small batches so we can learn and pivot along the way.
+* it&rsquo;s better to deliver some results each day than to hold back and deliver the entire result at the end
+* you&rsquo;ll get feedback and fix problems sooner and avoid too much waisted effort</p>
+
+<p>6) Drive configuration and infrastructure from machine readable sources kept under a source control system.
+* IaC is flexible, testable and can benefit from software engineering techniques</p>
+
+<p>7) Always be improving.
+* always be identifying the next big bottleneck and experiment to fix it
+* don&rsquo;t wait for a major disaster</p>
+
+<p>8) Pull, don&rsquo;t push.
+* build processes to meet demand, not accommodate supply
+* determine the desired weekly output, allocate resources, and pull the work through the system to completion</p>
+
+<p>9) Build community.
+* you, your team, your company and world&rsquo;s IT community are interdependent</p>
+
+<h2 id="injecting-modern-concepts-into-legacy-processes">Injecting modern concepts into legacy processes</h2>
+
+<p>1) Identify the team’s value streams — processes done for the business, or requested by the business.</p>
+
+<p>2) Each step in the process needs to be clearly defined so that it can be done in a repeatable fashion. That is, a reasonably well-trained person should be able to do the step and the result will be the same as the result from another reasonably trained person.</p>
+
+<p>3) Once the process is defined, amplify the feedback loops. That is, make sure each step has a way to raise the visibility of problems so that they are worked on, not ignored. Collect measurements on the length, frequency, and failure rate of the steps. Make this data available to all involved.</p>
+
+<p>4) Based on the feedback find pain points (steps that are the most error prone, unreliable, or slow) and build business case</p>
+
+<ul>
+<li>What problem really needs to be solved?</li>
+<li>Gather metrics showing how things can improve.</li>
+<li>Make business case showing why we need change and what we will get.</li>
+</ul>
+
+<p>5) Find allies, share and collaborate</p>
+
+<ul>
+<li>Ex. find people outside your team who can benefit from the change.</li>
+</ul>
+
+<p>6) Start small and build from the bottom up</p>
+
+<ul>
+<li>Start with something easy to build confidence while working out issues.</li>
+<li>Ex.: document =&gt; share documentation =&gt; automate (script) =&gt; automate more
+(Jenkins, RunDeck)</li>
+</ul>
+
+<h2 id="source">Source</h2>
+
+<ul>
+<li><a href="https://itrevolution.com/book/the-phoenix-project/">The Phoenix Project</a></li>
+<li><a href="http://the-sysadmin-book.com/">TPoSaNA</a></li>
+<li><a href="http://the-cloud-book.com/">TPoCSA</a></li>
+<li><a href="http://sysadvent.blogspot.sk/2016/12/day-13-injecting-modern-concepts-into.html">http://sysadvent.blogspot.sk/2016/12/day-13-injecting-modern-concepts-into.html</a></li>
+</ul>
+
+<h2 id="more">More</h2>
+
+<ul>
+<li><a href="https://www.oreilly.com/ideas/what-is-devops-yet-again">https://www.oreilly.com/ideas/what-is-devops-yet-again</a></li>
+</ul>
+
+  </article>
+
+  <br/>
+
+  
+  
+</section>
+
+      </div>
+
+      <footer class="footer">
+  <section class="container">
+    
+       Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>. 
+  </section>
+</footer>
+
+    </main>
+
+    
+
+  </body>
+
+</html>
