@@ -4,7 +4,6 @@
   
   <url>
     <loc>https://jreisinger.github.io/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -12,12 +11,11 @@
   </url>
   
   <url>
-    <loc>https://jreisinger.github.io/cv/</loc>
+    <loc>https://jreisinger.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://jreisinger.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://jreisinger.github.io/cv/</loc>
   </url>
   
   <url>
@@ -26,7 +24,6 @@
   
   <url>
     <loc>https://jreisinger.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
