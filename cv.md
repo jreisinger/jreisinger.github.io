@@ -54,13 +54,13 @@ at Slovak Telekom [2004 - 2006, 2011 - 2013]
 
 # Main technologies
 
-Operating systems: Kubernetes, Linux (Ubuntu/Debian)
+Platform: AWS, hardware`*`
 
-Artificial languages: [Go](https://github.com/jreisinger?tab=repositories&language=go)lang, [Bash](https://github.com/jreisinger?tab=repositories&language=shell), [Python](https://github.com/jreisinger?tab=repositories&language=python)`*`, [Perl](https://github.com/jreisinger?tab=repositories&language=perl)`*`
+Operating systems: Kubernetes, Linux (Ubuntu)
 
-Natural languages: English, Slovak/Czech`*`, Italian`*`
+Artificial languages: [Go](https://github.com/jreisinger?tab=repositories&language=go)lang, [Bash](https://github.com/jreisinger?tab=repositories&language=shell), [Python](https://github.com/jreisinger?tab=repositories&language=python)/[Perl](https://github.com/jreisinger?tab=repositories&language=perl)`*`
 
-Tools: Terraform, Ansible`*`
+Natural languages: English, Italian, Slovak/Czech`*`
 
 `*` not being used that much recently
 
