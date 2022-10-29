@@ -1,8 +1,5 @@
-My presence on the Internet
-
 * <https://github.com/jreisinger>
 * <https://jreisinger.blogspot.com>
-
 * <https://twitter.com/JozefReisinger>
 * <https://www.reddit.com/user/reisinge/>
 * <https://sk.linkedin.com/in/jozefreisinger>

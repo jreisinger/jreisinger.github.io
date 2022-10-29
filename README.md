@@ -1,1 +1,3 @@
-Welcome to my homepage, friend. Concerning technology I'm interested in infrastructure, security and programming. You might want to see my [CV](cv.md) and [links](links.md).
+Welcome to my homepage, friend. You might want to see my [CV](cv.md) and [links](links.md).
+
+![sea](sea.jpg)
