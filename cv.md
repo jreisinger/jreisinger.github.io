@@ -56,11 +56,11 @@ at Slovak Telekom [2004 - 2006, 2011 - 2013]
 
 Platform: AWS
 
-Operating systems: Kubernetes, Linux (Ubuntu)
+Operating systems: Kubernetes
 
-Artificial languages: [Go](https://github.com/jreisinger?tab=repositories&language=go)lang, [Bash](https://github.com/jreisinger?tab=repositories&language=shell), ([Python](https://github.com/jreisinger?tab=repositories&language=python)/[Perl](https://github.com/jreisinger?tab=repositories&language=perl))
+Artificial languages: [Go](https://github.com/jreisinger?tab=repositories&language=go)lang, Bash
 
-Natural languages: [English](https://jreisinger.blogspot.com), Slovak/Czech, Italian
+Natural languages: [English](https://jreisinger.blogspot.com), Italian
 
 Tools: Terraform
 
