@@ -52,17 +52,17 @@ at Slovak Telekom [2004 - 2006, 2011 - 2013]
 * Administered internal lab consisting of Linux servers and Cisco networking devices.
 * Managed small (up to 4 people) audit teams.
 
-# Main technologies
+# Current main technologies
 
-Platform: AWS, hardware`*`
+Platform: AWS
 
 Operating systems: Kubernetes, Linux (Ubuntu)
 
-Artificial languages: [Go](https://github.com/jreisinger?tab=repositories&language=go)lang, [Bash](https://github.com/jreisinger?tab=repositories&language=shell), [Python](https://github.com/jreisinger?tab=repositories&language=python)/[Perl](https://github.com/jreisinger?tab=repositories&language=perl)`*`
+Artificial languages: [Go](https://github.com/jreisinger?tab=repositories&language=go)lang, [Bash](https://github.com/jreisinger?tab=repositories&language=shell), ([Python](https://github.com/jreisinger?tab=repositories&language=python)/[Perl](https://github.com/jreisinger?tab=repositories&language=perl))
 
-Natural languages: English, Italian, Slovak/Czech`*`
+Natural languages: [English](https://jreisinger.blogspot.com), Slovak/Czech, Italian
 
-`*` not being used that much recently
+Tools: Terraform
 
 # Certifications
 
