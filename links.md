@@ -1,5 +1,4 @@
-* <https://github.com/jreisinger>
-* <https://jreisinger.blogspot.com>
+* <https://raw.githubusercontent.com/jreisinger/quotes/master/quotes.txt>
 * <https://twitter.com/JozefReisinger>
 * <https://www.reddit.com/user/reisinge/>
 * <https://sk.linkedin.com/in/jozefreisinger>
