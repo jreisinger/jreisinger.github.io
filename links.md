@@ -2,7 +2,6 @@
 
 ![sea](sea.jpg)
 
-* [quotes](https://raw.githubusercontent.com/jreisinger/quotes/master/quotes.txt)
 * [twitter](https://twitter.com/JozefReisinger)
 * [reddit](https://www.reddit.com/user/reisinge/)
 * [linkedin](https://sk.linkedin.com/in/jozefreisinger)

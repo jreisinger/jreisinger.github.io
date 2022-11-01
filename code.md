@@ -4,6 +4,6 @@
 
 Some of my public [projects](https://github.com/jreisinger):
 
-* [checkip](https://github.com/jreisinger/checkip)
 * [gokatas](https://github.com/jreisinger/gokatas)
-* [docs](https://github.com/jreisinger/docs)
+* [notes](https://github.com/jreisinger/docs/notes)
+* [quotes](https://raw.githubusercontent.com/jreisinger/quotes/master/quotes.txt)
