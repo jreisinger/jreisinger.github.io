@@ -1,3 +1,5 @@
+[cv](cv.md) | [code](code.md) | [blog](blog.md) | [links](links.md)
+
 ![sea](sea.jpg)
 
 Some of my [blog](https://jreisinger.blogspot.com) posts:
