@@ -60,13 +60,13 @@ at Slovak Telekom [2004 - 2006, 2011 - 2013]
 
 Platform: AWS
 
-Operating systems: Kubernetes
+Operating system: Kubernetes
 
 Artificial languages: [Go](https://github.com/jreisinger?tab=repositories&language=go)lang, Bash
 
 Natural languages: [English](https://jreisinger.blogspot.com), Italian
 
-Tools: Terraform
+Tooling: Terraform
 
 # Certifications
 
