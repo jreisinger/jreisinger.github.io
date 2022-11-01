@@ -1,3 +1,5 @@
+![sea](sea.jpg)
+
 * <https://raw.githubusercontent.com/jreisinger/quotes/master/quotes.txt>
 * <https://twitter.com/JozefReisinger>
 * <https://www.reddit.com/user/reisinge/>

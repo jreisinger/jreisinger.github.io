@@ -1,3 +1,5 @@
+![sea](sea.jpg)
+
 I've been securing, operating and building computer systems for about 15 years. This includes writing [programs](https://github.com/jreisinger). I started out as an IT auditor and system administrator, later moved to DevOps and security engineering. I've also managed projects and teams.
 
 # Employment history
