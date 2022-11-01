@@ -1,3 +1,5 @@
+[cv](cv.md) | [code](code.md) | [blog](blog.md) | [links](links.md)
+
 ![sea](sea.jpg)
 
 * [quotes](https://raw.githubusercontent.com/jreisinger/quotes/master/quotes.txt)
