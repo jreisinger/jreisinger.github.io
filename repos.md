@@ -1,6 +1,6 @@
-[**repos**](repos.md) | [blog](blog.md) | [cv](cv.md) | [links](links.md)
-
 ![sea](sea.jpg)
+
+[**repos**](repos.md) | [blog](blog.md) | [cv](cv.md) | [links](links.md)
 
 Some (parts) of my public [repos](https://github.com/jreisinger):
 
