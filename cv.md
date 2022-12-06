@@ -64,7 +64,7 @@ Operating system: Kubernetes
 
 Artificial languages: [Go](https://github.com/jreisinger?tab=repositories&language=go)lang, Bash
 
-Natural languages: [English](https://jreisinger.blogspot.com), Italian
+Natural languages: [English](https://jreisinger.blogspot.com), Italian, Slovak
 
 Tooling: Terraform
 
