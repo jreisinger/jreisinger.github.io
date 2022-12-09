@@ -60,7 +60,7 @@ at Slovak Telekom [2004 - 2006, 2011 - 2013]
 
 Platform: AWS
 
-Operating system: Kubernetes
+Operating system: Kubernetes, Linux
 
 Artificial languages: [Go](https://github.com/jreisinger?tab=repositories&language=go)lang, Bash
 
