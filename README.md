@@ -4,4 +4,4 @@
 
 Welcome to my [homepage](https://github.com/jreisinger/jreisinger.github.io), friend.
 
-> perfection is finally attained not when there is no longer anything to add, but when there is no longer anything to take away -- Antoine de Saint Exupery (Wind, Sand and Stars)
+> Simplicity requires more work at the beginning of a project to reduce an idea to its essence and more discipline over the lifetime of a project to distinguish good changes from bad or pernicious ones. -- The Go Programming Language
