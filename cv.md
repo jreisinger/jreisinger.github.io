@@ -11,7 +11,7 @@ at Empatica [2022 - present]
 
 * Let's see :-).
 
-Sr. Security Engineer
+Sr. Security Engineer, team lead
 at Deutsche Telekom Pan-Net [2017 - 2022]
 
 * Built security products (WAF, SIEM).
