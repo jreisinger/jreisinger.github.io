@@ -1,9 +1,7 @@
 ![sea](sea.jpg)
 
-[cv](cv.md) | [**links**](links.md)
+[home](README.md) | [cv](cv.md) | [**links**](links.md)
 
-* [github](https://github.com/jreisinger)
-* [blogspot](https://jreisinger.blogspot.com)
 * [twitter](https://twitter.com/JozefReisinger)
 * [reddit](https://www.reddit.com/user/reisinge/)
 * [linkedin](https://sk.linkedin.com/in/jozefreisinger)

@@ -1,6 +1,6 @@
 ![sea](sea.jpg)
 
-[**cv**](cv.md) | [links](links.md)
+[home](README.md) | [**cv**](cv.md) | [links](links.md)
 
 I've been securing, operating and building computer systems for about 15 years. This includes writing [programs](https://github.com/jreisinger). I started out as an IT auditor and system administrator, later moved to DevOps and [security](https://jreisinger.blogspot.com/2022/05/my-infosec-career-evaluation.html) engineering. I've also managed projects and teams.
 
