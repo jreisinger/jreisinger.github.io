@@ -9,7 +9,7 @@ I've been securing, operating and building computer systems for about 15 years. 
 Sr. Security Engineer
 at Empatica [2022 - present]
 
-* ...
+* Setting up security monitoring.
 
 Sr. Security Engineer, Team Lead
 at Deutsche Telekom Pan-Net [2017 - 2022]
