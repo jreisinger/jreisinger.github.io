@@ -10,3 +10,4 @@
 * [flickr](https://www.flickr.com/photos/jozrei)
 * [perlmonks](https://perlmonks.org/?node_id=898593)
 * [cpan](https://metacpan.org/author/REISINGE)
+* [codersrank](https://profile.codersrank.io/user/jreisinger)
