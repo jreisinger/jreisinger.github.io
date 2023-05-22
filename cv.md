@@ -10,6 +10,7 @@ Sr. Security Engineer
 at Empatica [2022 - present]
 
 * Setting up security monitoring.
+* Working with Kubernetes ingress WAFs.
 
 Sr. Security Engineer, Team Lead
 at Deutsche Telekom Pan-Net [2017 - 2022]
