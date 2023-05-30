@@ -9,8 +9,8 @@ I've been securing, operating and building computer systems for about 15 years. 
 Sr. Security Engineer
 at Empatica [2022 - present]
 
-* Setting up security monitoring.
-* Working with Kubernetes ingress WAFs.
+* Setting up and operating security monitoring to be able to detect threats.
+* Monitoring and maintaining Kubernetes ingress WAFs to block malicious HTTP requests.
 
 Sr. Security Engineer, Team Lead
 at Deutsche Telekom Pan-Net [2017 - 2022]
