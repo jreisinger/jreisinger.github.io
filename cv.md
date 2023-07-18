@@ -9,6 +9,7 @@ I've been securing, operating and building computer systems for about 15 years. 
 Sr. Security Engineer
 at Empatica [2022 - present]
 
+* Writing security automation in Go and Bash.
 * Setting up and operating security monitoring to be able to detect threats.
 * Monitoring and maintaining Kubernetes ingress WAFs to block malicious HTTP requests.
 
