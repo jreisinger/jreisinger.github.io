@@ -70,7 +70,7 @@ Natural languages: [English](https://jreisinger.blogspot.com), Italian, Slovak
 
 # Certifications
 
-AWS Certified Cloud Practitioner [2023 - 2026]
+AWS Certified Cloud [Practitioner](https://www.credly.com/badges/0f00ed4d-639a-47cc-97f4-80f5bdae6a37/public_url) [2023 - 2026]
 
 [CKA](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/e99ffcde-a0bf-4318-a42e-8d321eb86f34-jozef-reisinger-4fefcc1d-306b-4481-9883-93c42ebac1ad-certificate.pdf): Certified Kubernetes Administrator [2022 - 2025]
 
