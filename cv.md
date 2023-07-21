@@ -72,9 +72,9 @@ Natural languages: [English](https://jreisinger.blogspot.com), Italian, Slovak
 
 AWS Certified Cloud [Practitioner](https://www.credly.com/badges/0f00ed4d-639a-47cc-97f4-80f5bdae6a37/public_url) [2023 - 2026]
 
-[CKA](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/e99ffcde-a0bf-4318-a42e-8d321eb86f34-jozef-reisinger-4fefcc1d-306b-4481-9883-93c42ebac1ad-certificate.pdf): Certified Kubernetes Administrator [2022 - 2025]
+CKA: Certified Kubernetes [Administrator](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/e99ffcde-a0bf-4318-a42e-8d321eb86f34-jozef-reisinger-4fefcc1d-306b-4481-9883-93c42ebac1ad-certificate.pdf) [2022 - 2025]
 
-[CKAD](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/e99ffcde-a0bf-4318-a42e-8d321eb86f34-jozef-reisinger-certified-kubernetes-application-developer-ckad-certificate.pdf): Certified Kubernetes Application Developer [2021 - 2024]
+CKAD: Certified Kubernetes Application [Developer](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/e99ffcde-a0bf-4318-a42e-8d321eb86f34-jozef-reisinger-certified-kubernetes-application-developer-ckad-certificate.pdf) [2021 - 2024]
 
 CCENT: Cisco Certified Entry Networking Technician [2013 - 2016]
 
