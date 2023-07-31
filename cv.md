@@ -16,8 +16,8 @@ at Empatica [2022 - present]
 Sr. Security Engineer, Team Lead
 at Deutsche Telekom Pan-Net [2017 - 2022]
 
-* Built security products (WAF, SIEM).
 * Developed programs and scripts using Go, Bash and Python.
+* Built security products (WAF, SIEM).
 * Maintained Ansible playbooks, Kubernetes manifests and CI/CD pipelines.
 * Operated systems in private (and public) cloud the DevOps way.
 * Managed projects and team.
@@ -25,30 +25,30 @@ at Deutsche Telekom Pan-Net [2017 - 2022]
 Security Engineer
 at First Data [2016 - 2017]
 
-* Did full-stack administration of a large log management solution based on Splunk, syslog-ng, Linux.
 * Implemented a monitoring system using Python, Perl and Bash.
+* Did full-stack administration of a large log management solution based on Splunk, syslog-ng, Linux.
 * Implemented a testing environment using VirtualBox, Vagrant, Ansible.
 
 Sr. Linux Systems Specialist
 at Eset [2015 - 2016]
 
-* Administered Linux (Debian/Ubuntu) servers and services running on top of them (e.g.  MySQL, Postfix).
 * Introduced a configuration management tool (Ansible) and some other DevOps patterns like infrastructure as code, automated testing.
+* Administered Linux (Debian/Ubuntu) servers and services running on top of them (e.g.  MySQL, Postfix).
 
 System and Network Administrator
 at Institute of Science and Technology Austria [2013 - 2015]
 
-* Took care of Linux based infrastructure (email system, web servers, file servers, DNS) and networking.
 * Built tools and automated tasks via Perl, Bash and Ansible.
 * Wrote software for monitoring backups and virtual machines using MySQL and Perl Dancer.
+* Took care of Linux based infrastructure (email system, web servers, file servers, DNS) and networking.
 * Started to migrate monitoring system from Nagios to clustered Icinga2 setup.
 
 System Administrator
 at Kedros [2009 - 2011]
 
+* Wrote automation scripts in Unix shell and Perl.
 * Administered internal Linux (Debian) based infrastructure.
 * Setup and maintained testing environments (Solaris, RHEL, Tomcat, Oracle) in collaboration with developers and testers.
-* Wrote automation scripts in Unix shell and Perl.
 * Managed projects' deliverables.
 
 IT Auditor
