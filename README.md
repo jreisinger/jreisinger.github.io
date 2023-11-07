@@ -8,4 +8,4 @@
 
 > You need a certain amount of complexity to do any particular job. -- [Larry Wall](https://www.oreilly.com/openbook/opensources/book/larry.html)
 
-> The incomprehensible should cause suspicion rather than admiration. -- [Niklaus Wirth](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)
+> ... once a code base turns to spaghetti, it is nearly impossible to fix. -- John Ousterhout, A Philosophy of Software Design
