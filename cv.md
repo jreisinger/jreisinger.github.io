@@ -64,7 +64,7 @@ Platform: AWS
 
 Operating system: Kubernetes, Linux
 
-Artificial languages: [Go](https://github.com/jreisinger?tab=repositories&language=go)lang, Bash
+Artificial languages: [Go](https://github.com/jreisinger?tab=repositories&q=&type=&language=go&sort=stargazers)lang, Bash
 
 Natural languages: [English](https://jreisinger.blogspot.com), Italian, Slovak
 
