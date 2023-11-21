@@ -9,9 +9,10 @@ I've been securing, operating and building computer systems for about 15 years. 
 Sr. Security Engineer
 at Empatica [2022 - present]
 
+* Embedding security into software development process.
+* Writing security automation in Go and Bash.
 * Setting up and operating security monitoring (SIEM) to be able to detect threats.
 * Monitoring and maintaining Kubernetes ingress WAFs to block malicious HTTP requests.
-* Writing security automation in Go and Bash.
 
 Sr. Security Engineer, Team Lead
 at Deutsche Telekom Pan-Net [2017 - 2022]
