@@ -1,3 +1,5 @@
+[Linkedin](https://sk.linkedin.com/in/jozefreisinger)
+
 Have been securing, operating and building computer systems for about 15 years. This includes writing [programs](https://github.com/jreisinger), most recently in Go. Started out as an IT auditor (5 years) and system administrator (5 years), later moved to [security](https://jreisinger.blogspot.com/2022/05/my-infosec-career-evaluation.html) engineering (7 years). Have worked for companies in telecommunication, software, research, healthcare and finance industries. The company sizes were ranging from tens to thousands of employees. Managed projects and teams up to 10 people.
 
 # Employment history
