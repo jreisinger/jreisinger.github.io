@@ -1,5 +1,3 @@
-# Jozef Reisinger
-
 [programs](https://github.com/jreisinger) | [writings](https://jreisinger.blogspot.com) | [linkedin](https://sk.linkedin.com/in/jozefreisinger)
 
 Have been securing, operating and building computer systems for about 15 years. Started out as an IT auditor (5 years) and system administrator (5 years), later moved to cybersecurity engineering (7 years). Have worked for companies in telecommunication, software, research, healthcare and finance industries. The company sizes were ranging from tens to thousands of employees. Managed projects and teams up to 10 people.
