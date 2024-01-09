@@ -50,13 +50,7 @@ at Kedros (2009 - 2011)
 * Administered Linux (Debian) based infrastructure and testing environments (Solaris, RHEL, Tomcat, Oracle) in collaboration with tens of developers and testers.
 * Wrote automation scripts in Unix shell and Perl helping tens of internal and external customers.
 
-# Current main technologies
-
-Operating system: Kubernetes, Linux
-
-Artificial languages: [Go](https://github.com/jreisinger?tab=repositories&q=&type=&language=go&sort=stargazers)lang, Bash
-
-# Certifications
+# Certifications and education
 
 AWS Certified Cloud [Practitioner](https://www.credly.com/badges/0f00ed4d-639a-47cc-97f4-80f5bdae6a37/public_url) (2023)
 
@@ -69,3 +63,9 @@ CCENT: Cisco Certified Entry Networking Technician (2013)
 LPIC-2: Linux Professional Institute Certification - Advanced Level Administration (2012)
 
 CISSP: Certified Information Systems Security Professional (2011)
+
+CCNA: Cisco Certified Network Associate (2006)
+
+Cisco Networking Academy (2005 - 2006)
+
+University of Economics in Bratislava and University of Florence (1998 - 2004)
