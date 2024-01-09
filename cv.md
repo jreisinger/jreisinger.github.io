@@ -1,96 +1,71 @@
-![sea](sea.jpg)
-
-[home](README.md) | [**cv**](cv.md) | [links](links.md)
-
-I've been securing, operating and building computer systems for about 15 years. This includes writing [programs](https://github.com/jreisinger). I started out as an IT auditor and system administrator, later moved to [security](https://jreisinger.blogspot.com/2022/05/my-infosec-career-evaluation.html) engineering. I've also managed projects and teams.
+Have been securing, operating and building computer systems for about 15 years. This includes writing [programs](https://github.com/jreisinger), most recently in Go. Started out as an IT auditor (5 years) and system administrator (5 years), later moved to [security](https://jreisinger.blogspot.com/2022/05/my-infosec-career-evaluation.html) engineering (7 years). Have worked for companies in telecommunication, software, research, healthcare and finance industries. The company sizes were ranging from tens to thousands of employees. Managed projects and teams up to 10 people.
 
 # Employment history
 
 Sr. Security Engineer
-at Empatica [2022 - present]
+at Empatica (2022 - 2024)
 
-* Embedding security into software development process.
-* Writing security automation in Go and Bash.
-* Setting up and operating security monitoring (SIEM) to be able to detect threats.
-* Monitoring and maintaining Kubernetes ingress WAFs to block malicious HTTP requests.
+* Wrote security tools and automation in Go and Bash that detected around 10 inadvertent data and secrets exposures. 
+* Set up, documented and maintained security monitoring system (SIEM) based on Datadog that detected tens of suspicious events.
+* Operated Kubernetes based Web Application Firewall where improved false/true positive ratio by 80%.
+* Reviewed public API security and discovered bug leading to potential denial of service for thousands of customers.
 
 Sr. Security Engineer, Team Lead
-at Deutsche Telekom Pan-Net [2017 - 2022]
+at Deutsche Telekom Pan-Net (2017 - 2022)
 
-* Built security products (WAF, SIEM).
-* Developed programs and scripts using Go, Bash and Python.
-* Maintained Ansible playbooks, Kubernetes manifests and CI/CD pipelines.
-* Operated systems in private (and public) cloud the DevOps way.
-* Managed projects and team.
+* Designed and developed tens of programs and scripts in Go, Bash, and Python, resulting in increased security of the organization's systems.
+* Built and run security products like WAF and SIEM protecting hundreds of assets.
+* Operated tens of systems and deployments in private (and public) cloud using Ansible playbooks, Kubernetes manifests and CI/CD pipelines.
+* Led security projects and a team of about ten engineers for one year.
 
 Security Engineer
-at First Data [2016 - 2017]
+at First Data (2016 - 2017)
 
-* Did full-stack administration of a large log management solution based on Splunk, syslog-ng, Linux.
-* Implemented a monitoring system using Python, Perl and Bash.
-* Implemented a testing environment using VirtualBox, Vagrant, Ansible.
+* Orchestrated the full-stack administration of a large log management solution combining Splunk and Linux to handle the collecting and processing of hundreds of millions of logs per day.
+* Implemented a system monitoring tens of physical machines and applications using Python, Perl, and Bash.
 
 Sr. Linux Systems Specialist
-at Eset [2015 - 2016]
+at Eset (2015 - 2016)
 
-* Introduced a configuration management tool (Ansible) and some other DevOps patterns like infrastructure as code, automated testing.
-* Administered Linux (Debian/Ubuntu) servers and services running on top of them (e.g.  MySQL, Postfix).
+* Introduced a configuration management tool (Ansible) and other DevOps patterns like infrastructure as code, automated testing within a team of five people.
+* Administered Linux (Debian/Ubuntu) servers and services like  MySQL and Postfix.
 
 System and Network Administrator
-at Institute of Science and Technology Austria [2013 - 2015]
+at Institute of Science and Technology Austria (2013 - 2015)
 
-* Took care of Linux based infrastructure (email system, web servers, file servers, DNS) and networking.
-* Built tools and automated tasks via Perl, Bash and Ansible.
-* Wrote software for monitoring backups and virtual machines using MySQL and Perl Dancer.
+* Leveraged Perl (Dancer), MySQL, Bash, and Ansible to build automation resulting in time savings and higher consistency of tens of physical and virtual machines.
+* Took care of Linux based infrastructure (email system, web servers, file servers, DNS) and networking consisting of hundreds of devices.
 * Started to migrate monitoring system from Nagios to clustered Icinga2 setup.
 
-System Administrator
-at Kedros [2009 - 2011]
-
-* Administered internal Linux (Debian) based infrastructure.
-* Setup and maintained testing environments (Solaris, RHEL, Tomcat, Oracle) in collaboration with developers and testers.
-* Wrote automation scripts in Unix shell and Perl.
-* Managed projects' deliverables.
-
 IT Auditor
-at Slovak Telekom [2004 - 2006, 2011 - 2013]
+at Slovak Telekom (2011 - 2013)
 
-* Performed audits in IT, networking and IT security areas (e.g. Internet facing applications security, PKI review, Security of remote access, Patch management and vulnerability assessment).
+* Performed audits in areas like Internet applications security, PKI, security of remote access, patch management and vulnerability assessment, helping to improve efficiency of tens of internal processes and systems.
 * Administered internal lab consisting of Linux servers and Cisco networking devices.
-* Managed small (up to 4 people) audit teams.
+* Coordinated planning and execution of audits done by small (up to 4 people) project teams.
+
+System Administrator
+at Kedros (2009 - 2011)
+
+* Administered Linux (Debian) based infrastructure and testing environments (Solaris, RHEL, Tomcat, Oracle) in collaboration with tens of developers and testers.
+* Wrote automation scripts in Unix shell and Perl helping tens of internal and external customers.
 
 # Current main technologies
-
-Platform: AWS
 
 Operating system: Kubernetes, Linux
 
 Artificial languages: [Go](https://github.com/jreisinger?tab=repositories&q=&type=&language=go&sort=stargazers)lang, Bash
 
-Natural languages: [English](https://jreisinger.blogspot.com), Italian, Slovak
-
 # Certifications
 
-AWS Certified Cloud [Practitioner](https://www.credly.com/badges/0f00ed4d-639a-47cc-97f4-80f5bdae6a37/public_url) [2023 - 2026]
+AWS Certified Cloud [Practitioner](https://www.credly.com/badges/0f00ed4d-639a-47cc-97f4-80f5bdae6a37/public_url) (2023)
 
-CKA: Certified Kubernetes [Administrator](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/e99ffcde-a0bf-4318-a42e-8d321eb86f34-jozef-reisinger-4fefcc1d-306b-4481-9883-93c42ebac1ad-certificate.pdf) [2022 - 2025]
+CKA: Certified Kubernetes [Administrator](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/e99ffcde-a0bf-4318-a42e-8d321eb86f34-jozef-reisinger-4fefcc1d-306b-4481-9883-93c42ebac1ad-certificate.pdf) (2022)
 
-CKAD: Certified Kubernetes Application [Developer](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/e99ffcde-a0bf-4318-a42e-8d321eb86f34-jozef-reisinger-certified-kubernetes-application-developer-ckad-certificate.pdf) [2021 - 2024]
+CKAD: Certified Kubernetes Application [Developer](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/e99ffcde-a0bf-4318-a42e-8d321eb86f34-jozef-reisinger-certified-kubernetes-application-developer-ckad-certificate.pdf) (2021)
 
-CCENT: Cisco Certified Entry Networking Technician [2013 - 2016]
+CCENT: Cisco Certified Entry Networking Technician (2013)
 
-LPIC-2: Linux Professional Institute Certification - Advanced Level Administration [2012 - 2017]
+LPIC-2: Linux Professional Institute Certification - Advanced Level Administration (2012)
 
-CISSP: Certified Information Systems Security Professional [2011 - 2014]
-
-CCNA: Cisco Certified Network Associate [2006 - 2009]
-
-# Formal education
-
-Cisco Networking Academy: networking and telecommunications, four semesters [2005 - 2006]
-
-University of Florence: economics and IT, one semester [2003]
-
-University of Economics in Bratislava [1998 - 2004]
-
-Bilingual (Slovak - Italian) high school [1993 - 1998]
+CISSP: Certified Information Systems Security Professional (2011)
