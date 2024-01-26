@@ -1,1 +1,1 @@
-[programs](https://github.com/jreisinger) | [writings](https://jreisinger.blogspot.com) | [linkedin](https://www.linkedin.com/in/jozefreisinger)
+[Code](https://github.com/jreisinger) | [Blog](https://jreisinger.blogspot.com) | [Linkedin](https://www.linkedin.com/in/jozefreisinger)
