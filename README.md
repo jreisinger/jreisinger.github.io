@@ -1,6 +1,6 @@
 [Code](https://github.com/jreisinger) | [Blog](https://jreisinger.blogspot.com) | [CV](https://docs.google.com/document/d/1lfF-61ocfg8GP1BD7QY_LyOgiYpQrvQhSMTzmzbdSdg/edit?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/jozefreisinger)
 
-![tar pit](tar-pit.jpg)
+![tar pit](tarpit.jpeg)
 
 The programmer, like the poet, works only slightly removed from pure
 thought-stuff. He builds his castles in the air, from air, creating by exertion
