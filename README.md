@@ -1,4 +1,4 @@
-[Go monk](https://github.com/go-monk) | [Code](https://github.com/jreisinger) | [Blog](https://jreisinger.blogspot.com) | [CV](https://docs.google.com/document/d/1lfF-61ocfg8GP1BD7QY_LyOgiYpQrvQhSMTzmzbdSdg/edit?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/jozefreisinger) | [SO](https://stackoverflow.com/users/1039320/jreisinger)
+[Code](https://github.com/jreisinger) | [Blog](https://jreisinger.blogspot.com) | [CV](https://docs.google.com/document/d/1lfF-61ocfg8GP1BD7QY_LyOgiYpQrvQhSMTzmzbdSdg/edit?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/jozefreisinger) | [SO](https://stackoverflow.com/users/1039320/jreisinger)
 
 ![tar pit](tarpit.jpeg)
 
