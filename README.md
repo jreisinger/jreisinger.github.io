@@ -1,4 +1,4 @@
-[Code](https://github.com/jreisinger) | [Blog](https://jreisinger.blogspot.com) | [CV](https://pkg.go.dev/github.com/jreisinger/cv) :-) | [LinkedIn](https://www.linkedin.com/in/jozefreisinger) | [SO](https://stackoverflow.com/users/1039320/jreisinger)
+[Code](https://github.com/jreisinger) | [Blog](https://jreisinger.blogspot.com) | [LinkedIn](https://www.linkedin.com/in/jozefreisinger) | [SO](https://stackoverflow.com/users/1039320/jreisinger) | [CV](https://pkg.go.dev/github.com/jreisinger/cv) :-)
 
 <p align="center">
   <img src="tarpit.jpeg" alt="tar pit" width="100%">
